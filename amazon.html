@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>ShopBot — Amazon UAE Assistant</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --blue-deep: #0f2a4a;
+    --blue-mid: #1a3f6f;
+    --blue-accent: #2563eb;
+    --blue-bright: #3b82f6;
+    --blue-glow: #60a5fa;
+    --grey-dark: #1e2530;
+    --grey-mid: #374151;
+    --grey-light: #9ca3af;
+    --grey-pale: #d1d5db;
+    --white: #f8fafc;
+    --surface: rgba(15,42,74,0.6);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--grey-dark);
+    color: var(--white);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ---- BACKGROUND ---- */
+  .bg {
+    position: fixed; inset: 0; z-index: 0;
+    background: radial-gradient(ellipse 80% 60% at 20% 10%, #0d2e5e 0%, transparent 60%),
+                radial-gradient(ellipse 60% 50% at 80% 80%, #1a3f6f 0%, transparent 55%),
+                linear-gradient(160deg, #0a1628 0%, #111827 50%, #0d1f38 100%);
+  }
+  .bg-grid {
+    position: fixed; inset: 0; z-index: 0;
+    background-image: linear-gradient(rgba(37,99,235,0.06) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(37,99,235,0.06) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+  .orb {
+    position: fixed; border-radius: 50%; filter: blur(80px); z-index: 0; pointer-events: none;
+    animation: float 8s ease-in-out infinite;
+  }
+  .orb1 { width: 500px; height: 500px; background: rgba(37,99,235,0.12); top: -150px; left: -100px; animation-delay: 0s; }
+  .orb2 { width: 400px; height: 400px; background: rgba(96,165,250,0.08); bottom: -100px; right: -80px; animation-delay: -4s; }
+  .orb3 { width: 300px; height: 300px; background: rgba(29,78,216,0.1); top: 40%; left: 60%; animation-delay: -2s; }
+  @keyframes float {
+    0%,100% { transform: translateY(0px) scale(1); }
+    50% { transform: translateY(-30px) scale(1.05); }
+  }
+
+  /* ---- LAYOUT ---- */
+  .page { position: relative; z-index: 1; min-height: 100vh; display: flex; flex-direction: column; }
+
+  /* ---- NAV ---- */
+  nav {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 24px 48px;
+    border-bottom: 1px solid rgba(37,99,235,0.15);
+    backdrop-filter: blur(20px);
+    background: rgba(10,22,40,0.4);
+  }
+  .logo {
+    font-family: 'Syne', sans-serif; font-weight: 800; font-size: 1.4rem;
+    letter-spacing: -0.02em; color: var(--white);
+    display: flex; align-items: center; gap: 10px;
+  }
+  .logo-icon {
+    width: 36px; height: 36px; background: var(--blue-accent);
+    border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    font-size: 1rem;
+  }
+  .logo span { color: var(--blue-glow); }
+  .nav-pill {
+    background: rgba(37,99,235,0.15); border: 1px solid rgba(37,99,235,0.3);
+    border-radius: 20px; padding: 6px 16px; font-size: 0.75rem;
+    color: var(--blue-glow); letter-spacing: 0.08em; text-transform: uppercase;
+  }
+
+  /* ---- HERO ---- */
+  .hero {
+    flex: 1; display: flex; flex-direction: column; align-items: center;
+    justify-content: center; padding: 80px 24px 60px; text-align: center;
+  }
+  .badge {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(37,99,235,0.1); border: 1px solid rgba(59,130,246,0.25);
+    border-radius: 30px; padding: 8px 20px; margin-bottom: 36px;
+    font-size: 0.8rem; color: var(--blue-glow); letter-spacing: 0.05em;
+    animation: fadeUp 0.6s ease both;
+  }
+  .badge-dot { width: 7px; height: 7px; border-radius: 50%; background: #22c55e; box-shadow: 0 0 8px #22c55e; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.6;transform:scale(0.85)} }
+
+  h1 {
+    font-family: 'Syne', sans-serif; font-weight: 800;
+    font-size: clamp(3rem, 8vw, 6rem); line-height: 1.0;
+    letter-spacing: -0.03em; margin-bottom: 28px;
+    animation: fadeUp 0.6s 0.1s ease both;
+  }
+  h1 .line2 { color: var(--blue-bright); display: block; }
+
+  .subtitle {
+    font-size: 1.15rem; color: var(--grey-light); max-width: 520px;
+    line-height: 1.7; margin-bottom: 52px;
+    animation: fadeUp 0.6s 0.2s ease both;
+  }
+
+  /* ---- SETUP CARD ---- */
+  .setup-card {
+    background: rgba(15,42,74,0.5); border: 1px solid rgba(37,99,235,0.2);
+    border-radius: 20px; padding: 36px 40px; width: 100%; max-width: 480px;
+    backdrop-filter: blur(24px); text-align: left;
+    animation: fadeUp 0.6s 0.3s ease both;
+    box-shadow: 0 0 60px rgba(37,99,235,0.08);
+  }
+  .setup-card h2 {
+    font-family: 'Syne', sans-serif; font-weight: 700; font-size: 1.1rem;
+    margin-bottom: 6px; color: var(--white);
+  }
+  .setup-card p { font-size: 0.85rem; color: var(--grey-light); margin-bottom: 24px; }
+
+  .input-group { position: relative; margin-bottom: 16px; }
+  .input-group label {
+    display: block; font-size: 0.75rem; color: var(--grey-light);
+    letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 8px;
+  }
+  .input-group input {
+    width: 100%; background: rgba(10,22,40,0.6);
+    border: 1px solid rgba(37,99,235,0.25); border-radius: 10px;
+    padding: 12px 16px; color: var(--white); font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem; outline: none; transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .input-group input:focus {
+    border-color: var(--blue-accent);
+    box-shadow: 0 0 0 3px rgba(37,99,235,0.15);
+  }
+  .input-group input::placeholder { color: var(--grey-mid); }
+
+  .btn-primary {
+    width: 100%; background: var(--blue-accent); border: none; border-radius: 10px;
+    padding: 14px; font-family: 'Syne', sans-serif; font-weight: 700;
+    font-size: 0.95rem; color: var(--white); cursor: pointer; letter-spacing: 0.02em;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 20px rgba(37,99,235,0.35);
+    position: relative; overflow: hidden;
+  }
+  .btn-primary:hover { background: #1d4ed8; transform: translateY(-1px); box-shadow: 0 6px 28px rgba(37,99,235,0.45); }
+  .btn-primary:active { transform: translateY(0); }
+  .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+  .error-msg { color: #f87171; font-size: 0.82rem; margin-top: 10px; display: none; }
+  .error-msg.show { display: block; }
+
+  /* ---- FEATURES ---- */
+  .features {
+    display: flex; gap: 16px; margin-top: 60px; flex-wrap: wrap; justify-content: center;
+    animation: fadeUp 0.6s 0.4s ease both; padding: 0 24px;
+  }
+  .feat {
+    background: rgba(15,42,74,0.4); border: 1px solid rgba(37,99,235,0.15);
+    border-radius: 14px; padding: 20px 24px; flex: 1; min-width: 180px; max-width: 220px;
+    text-align: center;
+  }
+  .feat-icon { font-size: 1.6rem; margin-bottom: 10px; }
+  .feat h3 { font-family: 'Syne', sans-serif; font-weight: 600; font-size: 0.9rem; margin-bottom: 6px; }
+  .feat p { font-size: 0.78rem; color: var(--grey-light); line-height: 1.5; }
+
+  /* ---- ANIMATIONS ---- */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ---- LOADER ---- */
+  .spinner {
+    display: inline-block; width: 16px; height: 16px;
+    border: 2px solid rgba(255,255,255,0.3); border-top-color: white;
+    border-radius: 50%; animation: spin 0.7s linear infinite; vertical-align: middle; margin-right: 8px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+</head>
+<body>
+<div class="bg"></div>
+<div class="bg-grid"></div>
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+<div class="orb orb3"></div>
+
+<div class="page">
+  <nav>
+    <div class="logo">
+      <div class="logo-icon">🛒</div>
+      Shop<span>Bot</span>
+    </div>
+    <div class="nav-pill">Amazon UAE</div>
+  </nav>
+
+  <div class="hero">
+    <div class="badge">
+      <span class="badge-dot"></span>
+      Live Product Catalog · Refreshes Every 30s
+    </div>
+
+    <h1>Your Smart<span class="line2">Shopping Guide</span></h1>
+    <p class="subtitle">Ask anything about grooming products on Amazon UAE — prices, ratings, brand comparisons, and personalized recommendations.</p>
+
+    <div class="setup-card">
+      <h2>Connect Your AI Key</h2>
+      <p>Enter your Google AI Studio API key to activate the chatbot.</p>
+      <div class="input-group">
+        <label>Google AI Studio API Key</label>
+        <input type="password" id="apiKey" placeholder="AIza..."/>
+      </div>
+      <button class="btn-primary" id="startBtn" onclick="startBot()">Launch ShopBot →</button>
+      <div class="error-msg" id="errMsg"></div>
+    </div>
+
+    <div class="features">
+      <div class="feat">
+        <div class="feat-icon">⚡</div>
+        <h3>Live Data</h3>
+        <p>Catalog refreshes from Google Sheets every 30 seconds</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">🤖</div>
+        <h3>Gemini AI</h3>
+        <p>Powered by Google's Gemini 2.5 Flash model</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">🎯</div>
+        <h3>Smart Picks</h3>
+        <p>Filter by brand, budget, or rating in plain English</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+async function startBot() {
+  const key = document.getElementById('apiKey').value.trim();
+  const btn = document.getElementById('startBtn');
+  const err = document.getElementById('errMsg');
+  err.classList.remove('show');
+
+  if (!key) { showErr('Please enter your API key.'); return; }
+
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span>Connecting...';
+
+  try {
+    const res = await fetch('/api/setup', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ api_key: key })
+    });
+    const data = await res.json();
+    if (res.ok) {
+      btn.innerHTML = '✓ Connected! Launching...';
+      setTimeout(() => { window.location.href = '/chat'; }, 700);
+    } else {
+      showErr(data.error || 'Setup failed. Check your API key.');
+      btn.disabled = false;
+      btn.innerHTML = 'Launch ShopBot →';
+    }
+  } catch (e) {
+    showErr('Cannot reach server. Is app.py running?');
+    btn.disabled = false;
+    btn.innerHTML = 'Launch ShopBot →';
+  }
+}
+
+function showErr(msg) {
+  const el = document.getElementById('errMsg');
+  el.textContent = msg;
+  el.classList.add('show');
+}
+
+document.getElementById('apiKey').addEventListener('keydown', e => {
+  if (e.key === 'Enter') startBot();
+});
+</script>
+</body>
+</html>
