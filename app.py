@@ -152,7 +152,7 @@ app = Flask(__name__, static_folder='static')
 CORS(app)
 
 # ---- CONFIG ----
-GOOGLE_API_KEY = 'AIzaSyA9R_MYGKdhbHBZTXjlcf226zGDWOZaa0k'
+GOOGLE_API_KEY = 'your-api-key-here'  # AIzaSyA9R_MYGKdhbHBZTXjlcf226zGDWOZaa0k
 SHEET_URL = "https://docs.google.com/spreadsheets/d/16asI7EmNgjN6QCWhXzj8pVC5ZClqtimjkP6tQqbnSqI/export?format=csv&gid=1797651716"
 REFRESH_SECONDS = 30
 
