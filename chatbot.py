@@ -4,7 +4,12 @@ import google.generativeai as genai
 from getpass import getpass
 
 # ---- Step 1: API Key ----
-GOOGLE_API_KEY = "AIzaSyA9R_MYGKdhbHBZTXjlcf226zGDWOZaa0k"
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 print('API key set successfully!')
 
