@@ -1,6 +1,6 @@
-gunicorn
 flask
 flask-cors
 google-generativeai
 pandas
+gunicorn
 python-dotenv
