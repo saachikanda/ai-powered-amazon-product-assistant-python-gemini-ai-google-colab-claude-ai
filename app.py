@@ -152,7 +152,12 @@ app = Flask(__name__, static_folder='static')
 CORS(app)
 
 # ---- CONFIG ----
-GOOGLE_API_KEY = 'your-api-key-here'  # AIzaSyA9R_MYGKdhbHBZTXjlcf226zGDWOZaa0k
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+api_key = os.getenv("GEMINI_API_KEY")
 SHEET_URL = "https://docs.google.com/spreadsheets/d/16asI7EmNgjN6QCWhXzj8pVC5ZClqtimjkP6tQqbnSqI/export?format=csv&gid=1797651716"
 REFRESH_SECONDS = 30
 
@@ -195,7 +200,7 @@ def load_data():
 
 def build_model():
     global model, chat
-    genai.configure(api_key=GOOGLE_API_KEY)
+    genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
     system_prompt = f"""You are a helpful shopping assistant for an Amazon UAE product catalog.
 You have access to the following grooming product data (shavers, trimmers, groomers).
 Use ONLY this data to answer questions. Be specific, helpful, and concise.
