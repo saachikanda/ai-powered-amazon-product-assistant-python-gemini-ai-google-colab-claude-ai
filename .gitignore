@@ -1,4 +1,19 @@
-.venv/
+# Environment variables
+.env
+
+# Python
 __pycache__/
 *.pyc
-.env
+
+# VS Code
+.vscode/
+
+# Generated outputs
+outputs/
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+env/
