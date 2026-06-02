@@ -1,0 +1,2823 @@
+[
+  {
+    "product_name": "Apple iPhone 17 Pro Max 256 GB: 6.9-inch Display with ProMotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Cosmic Orange",
+    "price": 5099.0,
+    "rating": 4.4,
+    "number_of_reviews": 1000,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple iPhone 17 Pro 256 GB: 6.3-inch Display with ProMotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Silver",
+    "price": null,
+    "rating": 4.6,
+    "number_of_reviews": 464,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A16 LTE, Android Smartphone, Dual SIM Mobile Phone, 4GB RAM, 128GB Storage, Gray (UAE Version)",
+    "price": 445.23,
+    "rating": 4.4,
+    "number_of_reviews": 4600,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple iPhone 17 256 GB: 6.3-inch Display with ProMotion, A19 Chip, Center Stage Front Camera for Smarter Group Selfies, Improved Scratch Resistance, All-Day Battery Life; Black",
+    "price": 3188.95,
+    "rating": 4.2,
+    "number_of_reviews": 210,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 FE AI Phone, Jetblack, 8GB RAM, 256GB Storage, 50MP Camera, 6.7’’ Display, Slim & Lighter Design (UAE Version)",
+    "price": 1900.0,
+    "rating": 4.4,
+    "number_of_reviews": 240,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 Ultra Black, 256GBStorage, AI Phone, 12GBRAM, Customized AP,PrivacyDisplay, PhotoAssist, 200MPCamera, 5000mAhBattery, 2 Year Extended Warranty (UAE Type Approved)(Amazon Exclusive)",
+    "price": 3879.0,
+    "rating": 4.2,
+    "number_of_reviews": 58,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 5G (Awesome Olive, 12GB, 256GB) | Awesome Intelligence: Circle to Search, Intelligent Editing | Awesome 6 OS & 6 Years Security Updates | IP67- International",
+    "price": 1355.0,
+    "rating": 4.3,
+    "number_of_reviews": 192,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple iPhone Air 256 GB: Thinnest iPhone Ever, 6.5-inch Display with ProMotion up to 120Hz, Powerful A19 Pro Chip, Center Stage Front Camera, All-Day Battery Life; Space Black",
+    "price": 3365.01,
+    "rating": 4.3,
+    "number_of_reviews": 133,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "HONOR 400 Lite 5G – 8GB RAM 256GB ROM, 108MP Motion Sensing Camera, 120Hz 6.7 Inch AMOLED Display, Velvet Grey – Middle East Version (UAE Type Approved)",
+    "price": 820.0,
+    "rating": 4.2,
+    "number_of_reviews": 72,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "Xiaomi Redmi Note 14 Midnight Black 8+256GB smartphone,108MP AI camera system, 5500mAh battery, 6.67\" 120Hz AMOLED eye-care display, AI features",
+    "price": 649.0,
+    "rating": 4.1,
+    "number_of_reviews": 166,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "Redmi 15 5G Dual SIM 8GB 256GB Midnight Black - Global Version",
+    "price": 609.98,
+    "rating": 4.1,
+    "number_of_reviews": 127,
+    "brand": "Redmi"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Ultra AI Phone, 256GB Storage, 12GB RAM, Titanium Black, Android Smartphone, 200MP Camera, S Pen, Long Battery Life (International Version)",
+    "price": null,
+    "rating": 4.3,
+    "number_of_reviews": 3100,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A06 LTE (Black, 4GB RAM, 64GB Storage) | 50MP Dual Camera | 4 Gen OS Upgrades | IP54 Rating | Voice Focus | International Version",
+    "price": 309.0,
+    "rating": 3.8,
+    "number_of_reviews": 78,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 Ultra Cobalt Violet, 256GB Storage, AI Phone, 12GB RAM, Customized AP, Built-in Privacy Display, Photo Assist, 200MP Camera, 5000mAh Battery, UAE Version, 1 Year Warranty",
+    "price": 3894.9,
+    "rating": 3.1,
+    "number_of_reviews": 6,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Ultra AI Phone, 256GB Storage, 12GB RAM, Titanium Black, Android Smartphone, 200MP Camera, S Pen, Long Battery Life (UAE Type Approved)",
+    "price": 3340.0,
+    "rating": 4.5,
+    "number_of_reviews": 1200,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "A7 Non Camera Non GPS 12GB RAM (4GB + 8GB Expandable) 128GB ROM | NFC | Black",
+    "price": 649.0,
+    "rating": 2.8,
+    "number_of_reviews": 6,
+    "brand": null
+  },
+  {
+    "product_name": "Samsung Galaxy A26 5G, Android Smartphone, 256GB Storage, 8GB RAM, Black, 50MP Camera, Large Display, Long Battery Life (UAE Version)",
+    "price": 819.0,
+    "rating": 4.5,
+    "number_of_reviews": 289,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "XIAOMI Redmi 15C 4G Midnight Black 8GB+256GB, Massive 6000mAH Battery, 120Hz 6.9\" Display, Stylish Design, 50MP AI Dual Camera, 33W Fast Charging",
+    "price": 448.98,
+    "rating": 2.7,
+    "number_of_reviews": 57,
+    "brand": "XIAOMI"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE, Android Smartphone, 64GB Storage, 4GB RAM, Black, 6x OS Upgrades, Large Display, 6nm Processor, Travel Adaptor Included (UAE Version)",
+    "price": 342.0,
+    "rating": 4.3,
+    "number_of_reviews": 64,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Gray (8GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": 729.0,
+    "rating": 3.8,
+    "number_of_reviews": 22,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple iPhone 16 (128 GB) - Black",
+    "price": 2799.0,
+    "rating": 4.6,
+    "number_of_reviews": 282,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "HONOR X5c Plus 4G Smartphone, 4GB RAM 128GB ROM, Dual SIM, 5130mAh Battery, 6.74\" 90Hz Display, 50MP Camera, Midnight Black – Middle East Version (UAE Type Approved)",
+    "price": 359.0,
+    "rating": 4.3,
+    "number_of_reviews": 85,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "OnePlus 15, 5G Dual Sim,(Infinite Black, 16GB+512GB)- UK International Version",
+    "price": 2999.0,
+    "rating": 4.3,
+    "number_of_reviews": 65,
+    "brand": "OnePlus"
+  },
+  {
+    "product_name": "HONOR X6c Smartphone 6GB RAM 256GB ROM, 6.61\" 120Hz Display, 50MP Camera, 35W Fast Charging, Dual SIM, Midnight Black – Middle East Version (UAE Type Approved)",
+    "price": 462.0,
+    "rating": 4.6,
+    "number_of_reviews": 113,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM G3 5G Rugged Smartphone,MTK 7300, 12GB+512GB, 6.72\" FHD+ 120Hz, Android 15,NFC, OTG, 64MP Rear+50MP Front Camera,10000mAh Battery, Wireless Charging, Dual SIM, IP68 Waterproof Mobile Phone",
+    "price": 1545.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Samsung Galaxy A36 5G, Android Smartphone, 128GB Storage, 8GB RAM, Awesome Black, 6x OS Upgrades, Large Display, Octa-Core Processor - Middle East Version",
+    "price": 940.0,
+    "rating": 3.6,
+    "number_of_reviews": 3,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A06 5G Unlocked (4GB RAM, 128GB) – 50MP Dual Camera | IP54 | International Version | Expandable Storage | Works Worldwide, Black",
+    "price": 430.0,
+    "rating": 3.7,
+    "number_of_reviews": 44,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 mini (128GB) - Blue",
+    "price": 887.0,
+    "rating": 1.9,
+    "number_of_reviews": 7,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "HONOR 400 Lite Unlocked 5G Android AI Smartphone, AI Camera Button,108MP Camera,8GB+256GB Storage,Water Resistance,Velvet Black (International Version)",
+    "price": 820.0,
+    "rating": 4.3,
+    "number_of_reviews": 82,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold7 Cell Phone, 512GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, Silver Shadow (International Version)",
+    "price": 5549.0,
+    "rating": 4.4,
+    "number_of_reviews": 49,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S22 Ultra 5G Mobile Phone 512GB Dual SIM Android Smartphone Phantom Black (UAE Version)",
+    "price": 1899.0,
+    "rating": 4.2,
+    "number_of_reviews": 1400,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max, 256GB, White Titanium - Dual eSIM (US Version)",
+    "price": 2550.0,
+    "rating": 4.0,
+    "number_of_reviews": 316,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (256GB) - Gold",
+    "price": 2000.0,
+    "rating": 2.2,
+    "number_of_reviews": 68,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "vivo V70 FE 5G (Blue 8GB+256GB) 120Hz AMOLED| 32MP Selfie Camera | 7000mAH | IP69| Smartwatch| 24M Warranty, 455Days Screen Replacement – UAE Type Approved(Amazon Exclusive)",
+    "price": 1399.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": "vivo"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy S24 FE Dual SIM Blue 8GB RAM 128GB 5G - International Version",
+    "price": 3274.16,
+    "rating": 4.4,
+    "number_of_reviews": 151,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "OnePlus 13R | Smarter with OnePlus AI (12GB RAM, 256GB Storage Nebula Noir)",
+    "price": 1499.0,
+    "rating": 4.4,
+    "number_of_reviews": 1900,
+    "brand": "OnePlus"
+  },
+  {
+    "product_name": "POCO M7 Black 8GB RAM 256GB ROM EN Version",
+    "price": 599.0,
+    "rating": 3.5,
+    "number_of_reviews": 20,
+    "brand": "POCO"
+  },
+  {
+    "product_name": "Tecno POVA Slim 5G Dual SIM Slim White 8GB RAM 256GB 5G - Middle East Version",
+    "price": 849.0,
+    "rating": 5.0,
+    "number_of_reviews": 4,
+    "brand": "Tecno"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (128 GB) - Deep Purple",
+    "price": 1867.0,
+    "rating": 3.0,
+    "number_of_reviews": 37,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro (128GB) - Gold",
+    "price": 1289.0,
+    "rating": 3.1,
+    "number_of_reviews": 14,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung (Refurbished) Galaxy S23 Ultra 5G (Esim and 1 Physical sim) 8GB Ram, 256GB Rom Phantom Black Smartphone",
+    "price": 1630.0,
+    "rating": 3.8,
+    "number_of_reviews": 16,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Xiaomi 14T 5G Mobile,Titan Blue (12GB RAM+256GB) | MediaTek 8300 ultra | 6.67\" Amoled 144Hz display | Leica Triple Camera 50+50+12MP, 32MP Front camera | Free Xiaomi outdoor speaker",
+    "price": 1298.0,
+    "rating": 3.8,
+    "number_of_reviews": 81,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "Xiaomi 15T Pro Gray 12+512GB, 6.83\" 144Hz Eye-care Display, MediaTek Dimensity 9400+, 50MP Leica 5x Pro Telephoto, 5500mAh",
+    "price": 2349.0,
+    "rating": 4.3,
+    "number_of_reviews": 23,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max, 128GB, Gold - Dual eSIM (US Version)",
+    "price": 1880.0,
+    "rating": 3.9,
+    "number_of_reviews": 237,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 11 (64GB) - Black",
+    "price": 538.99,
+    "rating": 2.8,
+    "number_of_reviews": 244,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (128 GB) - Silver",
+    "price": 1962.0,
+    "rating": 2.9,
+    "number_of_reviews": 11,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "vivo X300 5G (Elite Black, 12GB 256GB) | AMOLED 120Hz | 200MP ZEISS Camera | 6040 mAh Battery | MediaTek Dimensity 9500 | IP69 | 24M Warranty, 12M Screen Replacement – UAE Type Approved",
+    "price": 2842.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "vivo"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Ultra AI Phone, 256GB Storage, 12GB RAM, Titanium Jetblack, Android Smartphone, 200MP Camera, S Pen, Long Battery Life (International Version)",
+    "price": 3294.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 11 Pro Max (256GB) - Gold",
+    "price": 899.99,
+    "rating": 3.2,
+    "number_of_reviews": 8,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max, 512GB, Blue Titanium - Dual eSIM (US Version)",
+    "price": 2710.0,
+    "rating": 4.2,
+    "number_of_reviews": 238,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy M17 5G (Moonlight Silver, 4GB RAM, 128GB Storage)| Circle to Search| Gemini Live| 50MP OIS Triple Camera| IP54 Rating| Gorilla Glass Victus| AI| 6 Gen of OS Upgrades| Without Charger",
+    "price": 559.0,
+    "rating": 4.1,
+    "number_of_reviews": 252,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro, 256GB, Deep Purple - Dual eSIM (US Version)",
+    "price": 1896.0,
+    "rating": 4.1,
+    "number_of_reviews": 888,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Motorola Moto G86 Power Dual-SIM 512GB ROM + 8GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Pantone Chrysanthemum) - International Version",
+    "price": 899.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "Infinix NOTE 50X 5G (X6857) Smartphone | 8GB RAM + 256GB Storage | 5G",
+    "price": 688.0,
+    "rating": 4.0,
+    "number_of_reviews": 38,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "Motorola Moto G86 Power Dual-SIM 512GB ROM + 8GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Pantone Spellbound) - International Version",
+    "price": 944.0,
+    "rating": 4.4,
+    "number_of_reviews": 3,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "vivo Y21 5G (Gold, 4+4GB RAM, 256 GB) 6500mAh, 44W charger | 120 Hz | IP65 | NFC | TWS Earbuds, 24 Months Warranty(Amazon Exclusive)- UAE Type Approved",
+    "price": 779.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "vivo"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Gray (6 GB RAM / 128 GB Storage) Android Smartphone | With Charger | 6x OS Upgrades, Large Display, 50MP OIS Camera | Indian Version",
+    "price": 676.0,
+    "rating": 4.2,
+    "number_of_reviews": 72,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G (International Version) – 128GB Storage, 4GB RAM, Dual SIM, Factory Unlocked Android Smartphone, 6.7\" Display, 50MP OIS Camera – Black",
+    "price": 656.79,
+    "rating": 4.0,
+    "number_of_reviews": 18,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung (Refurbished) Galaxy Note 20 Ultra 5G Blck 256",
+    "price": 1078.0,
+    "rating": 3.4,
+    "number_of_reviews": 53,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Honor 400 Dual-SIM 512GB ROM + 12GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Desert Gold) - International Version",
+    "price": 3425.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Honor"
+  },
+  {
+    "product_name": "Infinix SMART 10 (X6725D) Smartphone | 4GB RAM + 128GB Storage | 4G",
+    "price": 330.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 6 Dual SIM Pink 12GB RAM 256 GB 5G - Middle East Version",
+    "price": 3290.0,
+    "rating": 3.3,
+    "number_of_reviews": 5,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra 5G Dual SIM Green 12GB RAM 256GB (Storage) SNAPDRAGON - International Version",
+    "price": 2155.0,
+    "rating": 3.6,
+    "number_of_reviews": 47,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "vivo Y05 4G (Gold, 4+4GB RAM, 64 GB) 6500mAh, 15W charger | 120 Hz | IP65 | NFC | Bluetooth Neckband, 24 Months Warranty(Amazon Exclusive)- UAE Type Approved",
+    "price": 419.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "vivo"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (128 GB) - Gold",
+    "price": 1795.0,
+    "rating": 2.1,
+    "number_of_reviews": 16,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 AI Phone, 256GB Storage, 12GB RAM, Navy, Android Smartphone, 50MP Camera, Long Battery Life (UAE Type Approved)",
+    "price": 2917.19,
+    "rating": 4.4,
+    "number_of_reviews": 72,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro (512GB), Blue",
+    "price": 1524.0,
+    "rating": 2.0,
+    "number_of_reviews": 5,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Oppo A60 5G Telephone",
+    "price": 566.94,
+    "rating": 2.9,
+    "number_of_reviews": 4,
+    "brand": "Oppo"
+  },
+  {
+    "product_name": "Xiaomi Redmi Note 14 Pro 4G Mobile (Ocean Blue 12GB RAM, 512GB Storage) | 200MP pro-grade AI camera system |Curved 6.67\" 120Hz AMOLED display | 5500 mAh (typ) battery",
+    "price": 1089.98,
+    "rating": 4.0,
+    "number_of_reviews": 13,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "SAMSUNG (Refurbished) Galaxy S24 Ultra, 256GB, Violet, 12GB RAM, Android Smartphone, 200MP Camera",
+    "price": 2450.0,
+    "rating": 3.7,
+    "number_of_reviews": 11,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Infinix NOTE 50X 5G X6857 Smartphone | Powerful 16GB RAM (8+8 Extended) + 256GB Storage | Ultra Fast Octa-Core Processor | High-Resolution Display | Long-Lasting Battery | Sea Breeze Green",
+    "price": 667.88,
+    "rating": 4.6,
+    "number_of_reviews": 20,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE, Android Smartphone, 64GB Storage, 4GB RAM, Green, 6x OS Upgrades, Large Display, 6nm Processor (International Version)",
+    "price": 335.0,
+    "rating": 4.1,
+    "number_of_reviews": 7,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "OnePlus 13R| Smarter with OnePlus AI (12GB RAM, 256GB Storage Astral Trail)",
+    "price": 2627.0,
+    "rating": 4.4,
+    "number_of_reviews": 1500,
+    "brand": "OnePlus"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Samsung Galaxy A37 5G Android Smartphone,6x OS Upgrades, Large Display, 50MP Camera, Long Battery Life (International Version) (Awesome White, 8+256)",
+    "price": 1329.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "vivo X200 FE 5G Black |12GB RAM, 512GB| AMOLED 120Hz Display | 50MP ZEISS Camera | 6500 mAh Battery | MediaTek Dimensity 9300 | 4Y Battery | 455 Days Screen Replace,24 Months Warranty - UAE Version",
+    "price": 2774.0,
+    "rating": 3.6,
+    "number_of_reviews": 13,
+    "brand": "vivo"
+  },
+  {
+    "product_name": "Samsung Galaxy A06 5G Smartphone, Light Gray, 6GB RAM, 128GB Storage, 50MP Dual Camera, IP54 Rating (International Version)",
+    "price": 549.0,
+    "rating": 3.7,
+    "number_of_reviews": 18,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 6, 512GB Unlocked Android Smartphone, Circle to Search, Hands-Free Interpreter, AI Photo Edits, Foldable Display for Multitasking, 2024, US 1 Yr Warranty, Silver Shadow",
+    "price": 3710.0,
+    "rating": 4.4,
+    "number_of_reviews": 542,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy S23, AI Phone, Dual SIM, 5G, Android Smartphone, 128GB, Phantom Black (UAE Version)",
+    "price": 1495.0,
+    "rating": 4.5,
+    "number_of_reviews": 816,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "10 Pro XL, 256GB Storage, Smartphone Obsidian",
+    "price": 4499.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": null
+  },
+  {
+    "product_name": "Samsung Galaxy A26 5G, Android Smartphone, 256GB Storage, 8GB RAM, Black, 50MP Camera, Large Display, Long Battery Life - Middle East Version",
+    "price": 840.0,
+    "rating": 4.4,
+    "number_of_reviews": 3,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26+ Black, 512GB Storage, AI Phone, 12GB RAM, Customized AP, Photo Assist, 50MP Camera, 4900mAh Battery, 2 Year Manufacturer Extended Warranty (UAE Type Approved)(Amazon Exclusive)",
+    "price": 3992.0,
+    "rating": 5.0,
+    "number_of_reviews": 2,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished)iPhone 16 Pro Max (256GB) Black Titanium - Dual eSIM (US Version)",
+    "price": 3020.0,
+    "rating": 3.8,
+    "number_of_reviews": 4,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Ultra Dual SIM Titanium Silverblue 12GB RAM 512GB 5G - Middle East Version",
+    "price": 3800.0,
+    "rating": 3.0,
+    "number_of_reviews": 1,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy S25 Edge Cell Phone, 256 GB AI Smartphone, Unlocked Android, Night Video, Fast Processor, ProScaler Display, Long Battery Life, 2025, Titanium Silver (International Version)",
+    "price": 2268.0,
+    "rating": 4.5,
+    "number_of_reviews": 61,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung (Refurbished) Galaxy S23 5G (Cream, 8GB RAM, 128GB Storage) – Snapdragon Processor",
+    "price": 1069.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Infinix NOTE 50X 5G X6857 Smartphone | Powerful 16GB RAM (8+8 Extended) + 256GB Storage | Ultra Fast Octa-Core Processor | High-Resolution Display | Long-Lasting Battery | Sunset Spice Pink",
+    "price": 668.0,
+    "rating": 4.0,
+    "number_of_reviews": 19,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "Xiaomi 13T Pro (Black 12GB RAM, 512 Storage) - Leica professional camera system |Powered by 120W HyperCharge |IP68 water & dust resistance | Leading 4nm processor + Free Xiaomi Smart Band 8",
+    "price": 1883.23,
+    "rating": 4.3,
+    "number_of_reviews": 196,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "MOTOROLA Edge 60 Fusion 5G, 12GB RAM Boost, 256 GB ROM, AI powered Sony Lytia camera, IP69, MTK Dimensity 7300, 6.7\" pOLED Quad Curve Display 120Hz, PANTONE Amazonite.",
+    "price": 1129.0,
+    "rating": 3.9,
+    "number_of_reviews": 9,
+    "brand": "MOTOROLA"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Flip 5 Dual SIM Mint 8GB RAM 256 GB 5G with - International Version- green",
+    "price": 1390.0,
+    "rating": 3.5,
+    "number_of_reviews": 65,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Motorola Moto E15 Dual-SIM 64GB ROM + 2GB RAM (GSM Only | No CDMA) Factory Unlocked 4G/LTE Smartphone (Fresh Lavender) - International Version",
+    "price": 292.0,
+    "rating": 4.2,
+    "number_of_reviews": 105,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "Xiaomi 17 Black 12G RAM 512G ROM + Redmi Pad 2 - with 3-pin Adapter - Middle East Version",
+    "price": 3561.06,
+    "rating": 4.4,
+    "number_of_reviews": 12,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "HMD 101 4G | 4G Feature Phone with Cloud Phone Apps Supports YouTube, YouTube Shorts, Facebook & Much More | Type C Fast Charging | 1-Year Replacement Guarantee | Blue",
+    "price": 99.99,
+    "rating": 3.5,
+    "number_of_reviews": 29,
+    "brand": "HMD"
+  },
+  {
+    "product_name": "REDMAGIC 11 Pro 144Hz Gaming Phone, 5G Android Smartphone, 24GB RAM+1TB ROM, Snapdragon 8 Elite Gen 5, 6.85\" 1.5K AMOLED Full Screen, 50MP Camera, Unlocked Mobile Phone Silver",
+    "price": 3978.72,
+    "rating": 4.4,
+    "number_of_reviews": 23,
+    "brand": "REDMAGIC"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold 5 Dual SIM Icy Blue 12GB RAM 256GB 5G - International Version",
+    "price": 2460.0,
+    "rating": 3.4,
+    "number_of_reviews": 12,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 11 Pro Max with Facetime - 256GB, 4G LTE, Midnight Green",
+    "price": 886.0,
+    "rating": 3.1,
+    "number_of_reviews": 33,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "OPPO Reno7 Pro 5G Dual SIM Smartphone 256GB 12GB RAM,65W Super VOOC Flash Charge,5G Mobile Phone Unlocked(UAE Version) Starlight Black",
+    "price": 649.0,
+    "rating": 2.8,
+    "number_of_reviews": 5,
+    "brand": "OPPO"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Blue (6 GB RAM / 128 GB Storage) Android Smartphone | With Charger | 6x OS Upgrades, Large Display, 50MP OIS Camera | Indian Version",
+    "price": 650.0,
+    "rating": 4.2,
+    "number_of_reviews": 56,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "OPPO A60 5G, Android Smartphone, Dual SIM Mobile Phone 256GB 6GB, Ocean Blue (UAE Version)",
+    "price": 774.0,
+    "rating": 3.9,
+    "number_of_reviews": 69,
+    "brand": "OPPO"
+  },
+  {
+    "product_name": "HUAWEI Pura 80 Ultra Smartphone 16GB+512GB, Switchable Dual Telephoto Camera, 1-inch Ultra Lighting HDR Camera, Large Battery, Dual SuperCharge, Prestige Gold + Free Freebuds Pro4+ Care+",
+    "price": 3819.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": "HUAWEI"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 5 Dual SIM Phantom Black 12GB RAM 512GB 5G - International Version",
+    "price": 2449.0,
+    "rating": 3.7,
+    "number_of_reviews": 20,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (512 GB) - Gold",
+    "price": 2242.0,
+    "rating": 2.5,
+    "number_of_reviews": 16,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Google Pixel 10 Pro XL - Unlocked Android Smartphone - Gemini AI Assistant, Triple Rear Camera System, Fast-Charging 24+ Hour Battery, and 6.8\" Super Actua Display - Moonstone - 256 GB - 2025 Model",
+    "price": 4919.0,
+    "rating": 4.5,
+    "number_of_reviews": 113,
+    "brand": "Google"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 12 Pro (512GB) - Pacific Blue",
+    "price": 1179.0,
+    "rating": 2.4,
+    "number_of_reviews": 16,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max, 1TB, Natural Titanium - Dual eSIM (US Version)",
+    "price": 2789.99,
+    "rating": 4.1,
+    "number_of_reviews": 112,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "2026 AGM M11 Rugged Feature Phone with Mobile Hotspot,Cloud App Support,IP68 & IP69K Waterproof & Drop-Proof,Wired Reverse Charging/4000mAh Battery/Blueooth 5.0/Type-C",
+    "price": 359.1,
+    "rating": 4.0,
+    "number_of_reviews": 26,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Infinix Hot 50 Pro Smartphone, 256GB Storage, 8+8GB RAM, 6.78\" FHD+ Display, 5000mAh Battery, 50MP Camera, Dual SIM, Android 13, (Glacier blue).",
+    "price": 549.0,
+    "rating": 3.8,
+    "number_of_reviews": 9,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "POCO M7 Pro 5G Purple 12GB RAM 256GB ROM",
+    "price": 762.7,
+    "rating": 4.1,
+    "number_of_reviews": 18,
+    "brand": "POCO"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 Cobalt Violet, 256GB Storage, AI Phone, 12GB RAM, Customized AP, Built-in Privacy Display, Photo Assist, 200MP Camera, 5000mAh Battery, UAE Version, 1 Year Warranty",
+    "price": 2999.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (128 GB) - Alpine Green",
+    "price": 1501.0,
+    "rating": 4.0,
+    "number_of_reviews": 164,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "HUAWEI Mate X7 Foldable Smartphone 16GB+512G, 8\" 120Hz LTPO Foldable Display, True-to-Colour Camera, Kunlun Glass, 5600 mAh All-Day Battery, Nebula Red + Free Watch FIT4 PRO (UAE Type Approved)",
+    "price": 5649.0,
+    "rating": 4.1,
+    "number_of_reviews": 7,
+    "brand": "HUAWEI"
+  },
+  {
+    "product_name": "Redmi 14C 5G (Stardust Purple, 6GB RAM, 128GB Storage) | Superfast 4nm Snapdragon 4 Gen 2 | 120Hz 17.47cm (6.88”) Display | 5160mAh Battery | Indian Version",
+    "price": 549.0,
+    "rating": 4.3,
+    "number_of_reviews": 605,
+    "brand": "Redmi"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (128GB) - Silver",
+    "price": 1441.0,
+    "rating": 2.3,
+    "number_of_reviews": 7,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "MOTOROLA Razr 60 5G, 8+16GB RAM Boost, 256GB ROM, MediaTek Dimensity 7400X, 6.9 + 3.6\" pOLED Display, PANTONE Lightest Sky (UAE Type Approved)",
+    "price": 2204.0,
+    "rating": 3.6,
+    "number_of_reviews": 7,
+    "brand": "MOTOROLA"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra 5G (Esim and 1 Physical sim) 8GB Ram, 256GB Rom Phantom Black Smartphone - International Version",
+    "price": 2335.0,
+    "rating": 3.8,
+    "number_of_reviews": 22,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro (256GB) - Gold",
+    "price": 1338.0,
+    "rating": 2.9,
+    "number_of_reviews": 24,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "galaxy s24 ultra 12/256 black",
+    "price": 3713.56,
+    "rating": 4.5,
+    "number_of_reviews": 1400,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Motorola Edge 60 Stylus 5G Dual SIM 8GB RAM 256GB (PANTONE Surf the web (Blue))",
+    "price": 994.0,
+    "rating": 2.6,
+    "number_of_reviews": 4,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Flip6, 12GB RAM, 512GB Storage, Silver Shadow, 50MP Camera, 1 year Seller Warranty (International Version) (Renewed)",
+    "price": 1649.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "TTfone TT890 4G Senior Phone – Easy to Use Big Button Mobile Phone with Emergency Assistance Button, USB-C Charging, Bluetooth, Camera (with USB Cable)",
+    "price": 120.0,
+    "rating": 3.5,
+    "number_of_reviews": 76,
+    "brand": "TTfone"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Plus, 512GB, Blue - Dual eSIM (US Version)",
+    "price": 1650.0,
+    "rating": 4.1,
+    "number_of_reviews": 31,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Mini Phone for Kids, Unlocked Kid Phone, 4.0 inch HD Touch Screen, 3GB+32GB, 4G, Dual SIM, Face ID, Android 10.0, GPS, Kids Smart Phone (Black)",
+    "price": 385.6,
+    "rating": 2.6,
+    "number_of_reviews": 26,
+    "brand": null
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "POCO F7 Black 12GB RAM 512GB ROM",
+    "price": 1441.9,
+    "rating": 4.2,
+    "number_of_reviews": 153,
+    "brand": "POCO"
+  },
+  {
+    "product_name": "Samsung Galaxy Xcover 7 Black 6.6 Inch 128GB 5G Enterprise Edition",
+    "price": 615.0,
+    "rating": 4.4,
+    "number_of_reviews": 473,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (128GB) - Sierra Blue",
+    "price": 1480.0,
+    "rating": 2.6,
+    "number_of_reviews": 25,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 LTE Black (8GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": 668.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple iPhone 16e (128 GB) - White",
+    "price": 2199.0,
+    "rating": 4.6,
+    "number_of_reviews": 61,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Moto G Power 5G | 2024 | Unlocked | Made for US 8+128GB | 50MP Camera | Pale Lilac",
+    "price": 449.0,
+    "rating": 4.5,
+    "number_of_reviews": 290,
+    "brand": "Moto"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (256GB) - Graphite",
+    "price": 1588.0,
+    "rating": 2.3,
+    "number_of_reviews": 253,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Flip 5 Dual SIM Lavender 8GB RAM 256 GB 5G - International Version",
+    "price": 1499.0,
+    "rating": 3.1,
+    "number_of_reviews": 80,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy M17 5G (Sapphire Black, 6GB RAM, 128GB Storage)| Circle to Search| Gemini Live| 50MP OIS Triple Camera| IP54 Rating| Gorilla Glass Victus| AI| 6 Gen of OS Upgrades| Without Charger",
+    "price": 597.0,
+    "rating": 4.2,
+    "number_of_reviews": 613,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 5G, Android Smartphone, 256GB Storage, 12GB RAM, 6x OS Upgrades, Large Display, Long Battery Life (International Version) (Awesome Graphite)",
+    "price": 1310.0,
+    "rating": 4.0,
+    "number_of_reviews": 71,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 Black, 512GB Storage, AI Phone, 12GB RAM, Customized AP, Photo Assist, 50MP Camera, 4300mAh Battery, 2 Year Manufacturer Extended Warranty (UAE Type Approved)(Amazon Exclusive)",
+    "price": 3520.0,
+    "rating": 3.5,
+    "number_of_reviews": 8,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A36 5G, Android Smartphone, 128GB Storage, 8GB RAM, Awesome Black, 6x OS Upgrades, Large Display, Octa-Core Processor (UAE Version)",
+    "price": 920.0,
+    "rating": 4.4,
+    "number_of_reviews": 817,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung GALAXY S22 ULTRA 6.8\" 256GB RAM 12GB DUAL SIM 5G BURGUNDY",
+    "price": 1890.0,
+    "rating": 3.4,
+    "number_of_reviews": 940,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Vivo V70 5G - Brown 12 + 512GB | 50MP ZEISS Camera | 1.5K 120Hz AMOLED Display | 6500mAh | IP69, 4Y Battery | 455 Days Screen Replace,24 Months Warranty - UAE Type Approved(Amazon Exclusive)",
+    "price": 2213.97,
+    "rating": 4.1,
+    "number_of_reviews": 5,
+    "brand": "Vivo"
+  },
+  {
+    "product_name": "Samsung Galaxy A57 5G Android Smartphone, 256GB Storage, 8GB RAM, Awesome Navy, 6x OS Upgrades, Large Display, 50MP Camera, Long Battery Life (UAE Version)",
+    "price": 1650.0,
+    "rating": 3.7,
+    "number_of_reviews": 4,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (256 GB) - Space Black",
+    "price": 1999.0,
+    "rating": 2.2,
+    "number_of_reviews": 65,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 5G, Android Smartphone, 256GB Storage, 12GB RAM, Awesome Graphite, 6x OS Upgrades, Large Display, Long Battery Life (UAE Version)",
+    "price": 1472.0,
+    "rating": 4.3,
+    "number_of_reviews": 237,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Infinix Mobile Note 40 Pro+ 12GB+12GB RAM 256GB 5G - Middle East Version (Obsidian Black)",
+    "price": 1284.12,
+    "rating": 4.6,
+    "number_of_reviews": 13,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "Samsung Galaxy S23+, 8GB RAM 256GB Phantom Black, International Version, 5G Mobile Phone, Dual SIM, Android Smartphone",
+    "price": 1635.0,
+    "rating": 3.4,
+    "number_of_reviews": 115,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max, 256GB, Blue Titanium - Dual eSIM (US Version)",
+    "price": 2327.43,
+    "rating": 3.9,
+    "number_of_reviews": 699,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro (256GB) - Sierra Blue",
+    "price": 1350.0,
+    "rating": 3.2,
+    "number_of_reviews": 57,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Nokia 235 4G, Dual SIM Mobile Phone, Blue",
+    "price": 155.0,
+    "rating": 4.0,
+    "number_of_reviews": 8,
+    "brand": "Nokia"
+  },
+  {
+    "product_name": "Samsung Galaxy A26 5G, Android Smartphone, 256GB Storage, 8GB RAM, Mint, 50MP Camera, Large Display, Long Battery Life (International Version)",
+    "price": 879.0,
+    "rating": 4.4,
+    "number_of_reviews": 114,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 12 (64GB) - Black",
+    "price": 644.0,
+    "rating": 2.7,
+    "number_of_reviews": 238,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "AGM G3 5G Rugged Smartphone,MTK 7300, 12GB+512GB, 6.72\" FHD+ 120Hz, Android 15,NFC, OTG, 64MP Rear+50MP Front Camera,10000mAh Battery, Wireless Charging, Dual SIM, IP68 Waterproof Mobile Phone",
+    "price": 1545.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "OnePlus 15 | 12GB+256GB | Infinite Black | India's First Snapdragon® 8 Elite Gen 5 | 7300mAh Battery | Personalised AI | Game-Changing 165Hz Display | Triple 50MP Camera with 4K 120fps Dolby Vision",
+    "price": 2899.0,
+    "rating": 4.6,
+    "number_of_reviews": 471,
+    "brand": "OnePlus"
+  },
+  {
+    "product_name": "OPPO Reno 15 5G 12GB RAM 512GB Storage Smartphone with Premium Choice Box | AI Camera | AMOLED Display- UAE Version (Aurora White)",
+    "price": 2129.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "OPPO"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 11 (64GB) - White",
+    "price": 541.0,
+    "rating": 2.4,
+    "number_of_reviews": 8,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Vivo V60 5G - Desert Gold 12 + 256GB | 50MP ZEISS Camera | 3D curved 120Hz AMOLED Display | 6500mAh | IP69, 4Y Battery | 455 Days Screen Replace,24 Months Warranty - UAE Type Approved",
+    "price": 1559.0,
+    "rating": 3.1,
+    "number_of_reviews": 10,
+    "brand": "Vivo"
+  },
+  {
+    "product_name": "Vivo Y29s AI 5G (Titanium Gold 6+6GB RAM, 128GB) 5500mAh| 50MP Camera | 6.74 HD+ Display| IP64 | Dual Speakers | Online Exclusive Bundle:TWS Earbuds & 24M Warranty - UAE Type Approved",
+    "price": 724.0,
+    "rating": 3.8,
+    "number_of_reviews": 41,
+    "brand": "Vivo"
+  },
+  {
+    "product_name": "Motorola Razr 60 with Moto AI 8/256GB, 50MP OIS + 13MP, Selfie 32MP, External Display 3.63\", Internal 6.9\" POLED, 120Hz, MediaTek Dimensity, 256GB, Pantone Gibraltar Sea",
+    "price": 2129.89,
+    "rating": 4.2,
+    "number_of_reviews": 83,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "HUAWEI Pura 80 Smartphone 12GB+256GB, Frosted Glass and Flat-edge Design, Ultra Chroma XMAGE Camera, AI Noise Cancellation, Large Battery of 5170 mAh and Dual HUAWEI SuperCharge, Frosted Black",
+    "price": 1790.0,
+    "rating": 3.8,
+    "number_of_reviews": 5,
+    "brand": "HUAWEI"
+  },
+  {
+    "product_name": "2025 Newest AGM M10 Rugged Feature Phone, Compact Filp Mobile Phone, IP68/69K/Dual Nano SIM 4G LTE/SOS/Flash Light/1200mAh Battery/Blueooth 5.0/Type-C (AE)",
+    "price": 299.0,
+    "rating": 3.3,
+    "number_of_reviews": 39,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Motorola Moto G Power 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Midnight Blue",
+    "price": 501.3,
+    "rating": 4.3,
+    "number_of_reviews": 4800,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "OnePlus 13s | Snapdragon® 8 Elite | Smarter with OnePlus AI | 12GB+256GB | Green Silk (International Version)",
+    "price": 1999.0,
+    "rating": 4.5,
+    "number_of_reviews": 734,
+    "brand": "OnePlus"
+  },
+  {
+    "product_name": "Honor Magic V3 5G Smartphone, 12GB RAM + 512GB ROM, Dual Sim, Black With Free Gifts & Screen Damage Protection - Middle East Version",
+    "price": 5499.0,
+    "rating": 4.1,
+    "number_of_reviews": 25,
+    "brand": "Honor"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy S25 Edge Phone, 512 GB AI Smartphone, Unlocked Android, Night Video, Fast Processor, ProScaler Display, Long Battery Life, 2025, Titanium JetBlack (International Version)",
+    "price": 2849.0,
+    "rating": 4.5,
+    "number_of_reviews": 102,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "OPPO Find X9 5G 2025 (CPH2797) Dual SIM 512GB + 12GB RAM Android 16 Factory Unlocked Smartphone (Titanium Grey)",
+    "price": 4770.0,
+    "rating": 4.6,
+    "number_of_reviews": 6,
+    "brand": "OPPO"
+  },
+  {
+    "product_name": "Xiaomi Redmi 13 Mobile, Ocean Blue (8GB Ram+256GB) |Mediatek helio G91 ultra processor| 6.79\" FHD+ 90Hz display | Triple Camera 108MP + 2MP, 13MP Front camera | 3-pin charger | 1 year manufacturer",
+    "price": 530.0,
+    "rating": 3.9,
+    "number_of_reviews": 7,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "Apple iPhone 14 Plus (512 GB) - Starlight",
+    "price": 4319.12,
+    "rating": 4.6,
+    "number_of_reviews": 676,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy M17 5G (Sapphire Black, 4GB RAM, 128GB Storage)| Circle to Search| Gemini Live| 50MP OIS Camera| IP54 Rating| Gorilla Glass Victus| AI| 6 Gen of OS Upgrades| Without Charger",
+    "price": 565.0,
+    "rating": 3.8,
+    "number_of_reviews": 321,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 16 Pro (256GB) Desert Titanium - Dual eSIM (US Version)",
+    "price": 2859.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung (Refurbished) GALAXY S20+ BLACK 6.7IN 4G 128GB 8 GB ANDROID 10",
+    "price": 589.9,
+    "rating": 2.8,
+    "number_of_reviews": 15,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Flip 5 5G, US Version, 256GB, Cream - Unlocked (Renewed)",
+    "price": 1140.0,
+    "rating": 4.2,
+    "number_of_reviews": 21,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "HMD Barbie | Flip | Unlocked | KaiOS | Power Pink | US Version",
+    "price": 400.0,
+    "rating": 4.3,
+    "number_of_reviews": 757,
+    "brand": "HMD"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 11 Pro with FaceTime (64GB) - Silver",
+    "price": 817.0,
+    "rating": 3.1,
+    "number_of_reviews": 81,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "HMD Crest Max 5G | 64MP Triple Rear AI Camera | 50MP Front Camera | Rigid OLED FHD+ HID Display | 8GB + 8GB VRAM, 256GB Storage | Android 14 | 33W Fast Charging | Royal Pink",
+    "price": 352.98,
+    "rating": 3.6,
+    "number_of_reviews": 5,
+    "brand": "HMD"
+  },
+  {
+    "product_name": "MOTOROLA Edge 40 neo, 15(12+3) GB+256GB, IP68 Waterproof, 6.6\" pOLED 144Hz Display, 68W TurboCharger, Black Beauty (1yr GCC Warranty) (Renewed)",
+    "price": 679.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "MOTOROLA"
+  },
+  {
+    "product_name": "Motorola Moto G86 Power Dual-SIM 512GB ROM + 8GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Pantone Golden Cypress) - International Version",
+    "price": 879.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro (256 GB) - Space Black",
+    "price": 1790.0,
+    "rating": 2.3,
+    "number_of_reviews": 41,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro (256 GB) - Alpine Green",
+    "price": 1298.01,
+    "rating": 2.3,
+    "number_of_reviews": 13,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Infinix Hot 60 Pro+ 8+8GB RAM 256GB 4G Titanium Silver- UAE Version",
+    "price": 783.77,
+    "rating": 4.0,
+    "number_of_reviews": 55,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "Motorola Edge 70 Fusion 5G Dual SIM (Nano + eSIM) 12GB RAM 256GB Storage with moto buds - Middle East Version (PANTONE Sihouette black)",
+    "price": 1448.99,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "Apple iPhone 17 Pro 256 GB: 6.3-inch Display with ProMotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Deep Blue (Renewed)",
+    "price": 4380.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "HONOR Magic V5 16GB RAM 512GB Dawn Gold With Free Honor choice Speaker, Honor Watch 4, Premium phone cover & 6 Month Screen Insurance - Middle East Version",
+    "price": 5349.0,
+    "rating": 4.2,
+    "number_of_reviews": 26,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "realme 15 Pro 5G AI Dual SIM Triple 50M Camera| Al Edit Genie| 7000mAh battery| 80W charge| 144Hz HyperGlow 4D Curve+ Display|12GB RAM 512GB Velvet Green- Middle East Version",
+    "price": 1399.0,
+    "rating": 4.4,
+    "number_of_reviews": 16,
+    "brand": "realme"
+  },
+  {
+    "product_name": "NOKIA 110 4G DS PURPLE",
+    "price": 104.9,
+    "rating": 3.9,
+    "number_of_reviews": 55,
+    "brand": "NOKIA"
+  },
+  {
+    "product_name": "TCL NxtPaper 70 Pro Dual-SIM 512GB ROM + 8GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Stellar Blue) - International Version",
+    "price": 1436.24,
+    "rating": 4.0,
+    "number_of_reviews": 17,
+    "brand": "TCL"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Flip 7 Dual SIM Jet Black 12GB 256GB 5G - International Version",
+    "price": 2950.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "HTC Wildfire E7 Non-camera Dual SIM 4G upto 8GB* (4+4) RAM 128GB Blue Black - Middle East Version",
+    "price": 529.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "HTC"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Ultra Dual SIM Titanium Black 12GB RAM 512GB 5G - Middle East Version",
+    "price": 3820.0,
+    "rating": 2.9,
+    "number_of_reviews": 2,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Flip 4 Cell Phone, Factory Unlocked Android Smartphone, 256GB, Flex Mode, Hands Free Camera, Compact, Foldable Design, Informative Cover Screen, US Version, 2022, Bora Purple",
+    "price": 1066.0,
+    "rating": 3.6,
+    "number_of_reviews": 229,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Galaxy Z Fold5, 12GB RAM, 256GB Storage, Icy Blue (International Version)",
+    "price": 2220.0,
+    "rating": 3.5,
+    "number_of_reviews": 180,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "MOTOROLA Edge 70 5G, 12+12GB RAM Boost, 512 GB ROM, OIS Camera, IP68/IP69, Snapdragon 7 Gen 4, 6.7\" pOLED Display 120Hz, PANTONE Bronze Green (UAE Type Approved)",
+    "price": 1798.98,
+    "rating": 3.4,
+    "number_of_reviews": 7,
+    "brand": "MOTOROLA"
+  },
+  {
+    "product_name": "Samsung Galaxy A36 Enterprise Edition DUAL-SIM 128GB ROM + 6GB RAM (GSM only | No CDMA) Factory Unlocked 5G SmartPhone (Awesome Black) - International Version",
+    "price": 999.0,
+    "rating": 4.1,
+    "number_of_reviews": 86,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy S22 Ultra SM-S908E 12GB RAM 256GB Rom 5G Dual SIM and Esim Smartphone Phantom Black International Version",
+    "price": 1999.0,
+    "rating": 2.7,
+    "number_of_reviews": 53,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, JetBlack (International Version)",
+    "price": 4949.0,
+    "rating": 4.4,
+    "number_of_reviews": 55,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple iPhone 17 Pro Max 256 GB: 6.9-inch Display with ProMotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Cosmic Orange (Renewed)",
+    "price": 4540.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Nothing Phone A059 (3a) 5G Black, (12 GB RAM, 256 GB Storage),50 MP Camera,6.77\" FHD+ flexible AMOLED display,5000 mAh (UAE Type Approved)",
+    "price": 1302.0,
+    "rating": 4.1,
+    "number_of_reviews": 32,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Samsung (Refurbished) Galaxy Z Fold 3 5G (256GB Storage, Phantom Black)",
+    "price": 1376.0,
+    "rating": 4.0,
+    "number_of_reviews": 1200,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Tracfone | Motorola Moto g 5G 2024 | Locked |128GB | 5000mAh Battery | 50MP Camera | 6.6\" Display | Gray",
+    "price": 253.06,
+    "rating": 4.2,
+    "number_of_reviews": 382,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (512 GB) - Space Black",
+    "price": 2020.0,
+    "rating": 2.0,
+    "number_of_reviews": 22,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A36 5G, Android Smartphone, 128GB Storage, 8GB RAM, Awesome Black, 6x OS Upgrades, Large Display, Octa-Core Processor - Middle East Version",
+    "price": 940.0,
+    "rating": 3.6,
+    "number_of_reviews": 3,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "HMD Fusion 5G Android 14 Smartphone, 24GB RAM (12GB+12GB), 256GB Storage, Ultra-Slim Transparent Design, High-Resolution Display for Gaming & Media, 108MP Rear + 50MP Selfie Camera, Noir Indigo",
+    "price": 505.54,
+    "rating": 3.2,
+    "number_of_reviews": 11,
+    "brand": "HMD"
+  },
+  {
+    "product_name": "HUAWEI Pura 80 Smartphone 12GB+256GB, Frosted Glass and Flat-edge Design, Ultra Chroma XMAGE Camera, AI Noise Cancellation, Large Battery of 5170 mAh and Dual HUAWEI SuperCharge, Frosted Gold",
+    "price": 1790.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "HUAWEI"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra, 8GB RAM 256GB Lavender, International Version, 5G Mobile Phone, Dual SIM, Android Smartphone",
+    "price": 2280.0,
+    "rating": 4.1,
+    "number_of_reviews": 151,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Nokia G21 Dual SIM 4GB Ram+128GB ROM (6.5 Inches) (4G) - (Nordic Blue)",
+    "price": 309.0,
+    "rating": 3.8,
+    "number_of_reviews": 598,
+    "brand": "Nokia"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone SE 2 (64GB) - White",
+    "price": 394.0,
+    "rating": 3.5,
+    "number_of_reviews": 104,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Realme C67 4G (Sunny Oasis 8GB RAM, 256GB ROM) International Version (Renewed)",
+    "price": 429.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Realme"
+  },
+  {
+    "product_name": "iPhone 13 Pro Max (256GB) - Sierra Blue (Renewed)",
+    "price": 1799.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "HONOR 200 5G Smartphone | 512GB ROM + 12GB RAM | 6.7\" 120Hz OLED Display | 50MP Triple Camera | Snapdragon 7 Gen 3 | 5200mAh Battery | 100W Fast Charging | Dual SIM | Android 14 (Black)",
+    "price": 1149.0,
+    "rating": 4.4,
+    "number_of_reviews": 331,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (512 GB) - Deep Purple",
+    "price": 2178.0,
+    "rating": 2.3,
+    "number_of_reviews": 30,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple iPhone 14 (128 GB) - Blue",
+    "price": 2575.92,
+    "rating": 4.6,
+    "number_of_reviews": 569,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A26 5G, Android Smartphone, 256GB Storage, 8GB RAM, White, 50MP Camera, Large Display, Long Battery Life - Middle East Version",
+    "price": 830.0,
+    "rating": 3.2,
+    "number_of_reviews": 4,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Motorola Edge 60 Fusion Dual-SIM 256GB ROM + 8GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Pantone Amazonite) - International Version",
+    "price": 957.66,
+    "rating": 4.4,
+    "number_of_reviews": 26,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 White, 512GB Storage, AI Phone, 12GB RAM, Customized AP, Built-in Privacy Display, Photo Assist, 200MP Camera, 5000mAh Battery, UAE Version, 1 Year Warranty",
+    "price": 3718.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A26 Dual-SIM 128GB ROM + 6GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Black) - International Version",
+    "price": 765.0,
+    "rating": 4.6,
+    "number_of_reviews": 667,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro, 512GB, Natural Titanium - Dual eSIM (US Version)",
+    "price": 2550.0,
+    "rating": 4.1,
+    "number_of_reviews": 105,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro, 128GB, Blue Titanium - Dual eSIM (US Version)",
+    "price": 1999.99,
+    "rating": 4.2,
+    "number_of_reviews": 393,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A36 5G, Android Smartphone, 128GB Storage, 8GB RAM, Awesome Lavender, 6x OS Upgrades, Large Display, Octa-Core Processor - Middle East Version",
+    "price": 949.0,
+    "rating": 4.0,
+    "number_of_reviews": 1,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "V Max Pro 5G Rugged Phone 32GB+512GB 6.58'' Android 14 Dimensity 7050 108MP Ai Camera 22000mAh NFC Smartphone",
+    "price": 2290.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "V Max Pro"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, Silver Shadow (International Version)",
+    "price": 5050.0,
+    "rating": 4.5,
+    "number_of_reviews": 43,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung (Refurbished) Galaxy S23 Ultra, 8GB RAM 256GB Lavender, 5G Mobile Phone, Dual SIM, Android Smartphone",
+    "price": 1649.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Oneplus 12 Dual-SIM 16GB RAM, 512GB 5G Flowy Emerald - International Version",
+    "price": 2095.0,
+    "rating": 4.2,
+    "number_of_reviews": 4200,
+    "brand": "Oneplus"
+  },
+  {
+    "product_name": "Samsung (Refurbished) Galaxy S21+ 5G Smartphone Android Mobile Phone Phantom Black 128GB",
+    "price": 681.53,
+    "rating": 4.2,
+    "number_of_reviews": 2300,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Nothing Phone (2) 12+256, Glyph Interface, Nothing OS 2.0, 50MP dual camera, 6.7” LTPO AMOLED screen, 4700 mAh battery, waterproof, 5G Android smartphone, White, Middle East Version",
+    "price": 2196.0,
+    "rating": 4.3,
+    "number_of_reviews": 509,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Apple iPhone XS Max without facetime 256GB - Gold (Renewed)",
+    "price": 612.0,
+    "rating": 3.2,
+    "number_of_reviews": 6,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "SAMSUNG (Refurbished) Galaxy S22 Ultra Cell Phone, Factory Unlocked Android smartphone, 256GB, Phantom Black",
+    "price": 1249.12,
+    "rating": 3.7,
+    "number_of_reviews": 3900,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Apple iPhone 17 Pro 256 GB: 6.3-inch Display with ProMotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Silver (Renewed)",
+    "price": 4389.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Flip 7 Dual SIM Blue Shadow 12GB 256GB 5G - International Version",
+    "price": 3450.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 AI Phone, 256GB Storage, 12GB RAM, Navy, Android Smartphone (International Version), 1 year seller warranty",
+    "price": 2484.0,
+    "rating": 4.4,
+    "number_of_reviews": 820,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "benco G6 No Camera Phone|4G|2.4”Display|1500mAh Battery|Type C Charging|Wireless FM|Bluetooth|Black",
+    "price": 95.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "benco"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 5 Dual SIM Phantom Black 12GB RAM 256GB 5G - Middle East Version",
+    "price": 2349.0,
+    "rating": 4.0,
+    "number_of_reviews": 15,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold 5 Dual SIM Cream 12GB RAM 512GB 5G - International Version",
+    "price": 2360.0,
+    "rating": 4.3,
+    "number_of_reviews": 16,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Honor 600 Lite Dual-SIM 256GB ROM + 8GB RAM (GSM Oly | No CDMA) Factory Unlocked 5G Smartphone (Sprout Green) - International Version",
+    "price": 1075.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Honor"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Ultra, 1TB Storage, 12GB RAM, Black (International Version)",
+    "price": 3954.0,
+    "rating": 4.5,
+    "number_of_reviews": 1600,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "A6 Pro AI Phone 5G Dual SIM 8GB RAM 256GB Stellar Blue + Headphone - Middle East Version",
+    "price": 1044.0,
+    "rating": 4.4,
+    "number_of_reviews": 4,
+    "brand": "A6"
+  },
+  {
+    "product_name": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 256GB Storage)| Segment's Slimmest | Gorilla Glass Victus+| 10 Bit HDR Video| 50MP Camera| AI | Vapour Cooling Chamber| Lag-Free Gaming| Without Charger",
+    "price": 964.5,
+    "rating": 4.3,
+    "number_of_reviews": 229,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 (128 GB) - Pink",
+    "price": 1645.0,
+    "rating": 2.8,
+    "number_of_reviews": 25,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Blue (8 GB RAM / 256 GB Storage) Android Smartphone | With Charger | 6x OS Upgrades, Large Display, 50MP OIS Camera | Indian Version",
+    "price": 756.0,
+    "rating": 4.0,
+    "number_of_reviews": 61,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Benco V91s Plus - 256GB,12GB RAM (6+6 GB RAM) Dual SIM - No Camera, No GPS (Sunrise White)",
+    "price": 725.0,
+    "rating": 4.0,
+    "number_of_reviews": 5,
+    "brand": "Benco"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra 5G Dual SIM Lavender 12GB RAM 256GB (Storage) SNAPDRAGON -International Version",
+    "price": 2199.0,
+    "rating": 3.7,
+    "number_of_reviews": 40,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max, 512GB, Black Titanium - Dual eSIM (US Version)",
+    "price": 2650.0,
+    "rating": 4.0,
+    "number_of_reviews": 214,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 12 mini (64GB) - White",
+    "price": 579.0,
+    "rating": 3.0,
+    "number_of_reviews": 216,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "NOKIA 235 4G Dual SIM BLACK",
+    "price": 169.0,
+    "rating": 3.4,
+    "number_of_reviews": 22,
+    "brand": "NOKIA"
+  },
+  {
+    "product_name": "CHAKEYAKE Mobile Phone For Elderly, 4g Big Button Basic Phone With Bluetooth Speaker Charging Station, Large Volume, Sos Emergency Button, Speed Dial, 1000mah Battery,Torch, 1,77\" Color Display, Blue",
+    "price": 454.0,
+    "rating": 4.6,
+    "number_of_reviews": 10,
+    "brand": "CHAKEYAKE"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max, 512GB, Natural Titanium - Dual eSIM (US Version)",
+    "price": 3000.0,
+    "rating": 4.0,
+    "number_of_reviews": 187,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung GALAXY S22 ULTRA 6.8\" 256GB RAM 12GB DUAL SIM 5G BURGUNDY (Renewed)",
+    "price": 1303.79,
+    "rating": 3.4,
+    "number_of_reviews": 67,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro, 256GB, Blue Titanium - Dual eSIM (US Version)",
+    "price": 2180.0,
+    "rating": 4.0,
+    "number_of_reviews": 395,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 16 Pro (256GB) White Titanium - Dual eSIM (US Version)",
+    "price": 2890.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone SE 3 (64 GB) - Midnight",
+    "price": 469.99,
+    "rating": 3.5,
+    "number_of_reviews": 15,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Honor X9d 5G Dual SIM (12GB RAM 256GB Storage) |108MP Ultra-Cear AI Camera | 6.79-inch AMOLED 120Hz Display |Android 15 (Midnight Black) - International Version",
+    "price": "1119.00",
+    "rating": 4.1,
+    "number_of_reviews": 54,
+    "brand": "Honor"
+  },
+  {
+    "product_name": "Nothing Phone (3a) 128 GB - mobile phone with 32 MP front camera, 30x ultra zoom, 50W fast charging and 6.77\" FHD+ flexible AMOLED display - Black (UAE Type Approved)",
+    "price": "967.93",
+    "rating": 4.5,
+    "number_of_reviews": 287,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE, Android Smartphone, 64GB Storage, 4GB RAM, Black, 6x OS Upgrades, Large Display, 6nm Processor (UAE Version)",
+    "price": "329.00",
+    "rating": 4.2,
+    "number_of_reviews": 107,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 LTE, Android Smartphone, 128GB Storage, 6GB RAM, Black, 6x OS Upgrades, Large Display, 50MP OIS Camera (UAE Version)",
+    "price": "580.00",
+    "rating": 4.3,
+    "number_of_reviews": 229,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, International Version, Sky Blue",
+    "price": "4448.99",
+    "rating": 4.6,
+    "number_of_reviews": 475,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Edge AI Phone, 256GB Storage, 12GB RAM, Titanium Jetblack, Galaxy AI, Android Smartphone, 200MP Camera, Long Battery Life,(UAE Version)",
+    "price": "2199.00",
+    "rating": 4.0,
+    "number_of_reviews": 38,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Black (8GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": "735.00",
+    "rating": 3.2,
+    "number_of_reviews": 16,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "benco S2C No Camera No GPS, 6+10GB RAM,128GB ROM, 6.82” Display, 5000mAh Battery | Grey",
+    "price": "669.00",
+    "rating": 4.5,
+    "number_of_reviews": 3,
+    "brand": "benco"
+  },
+  {
+    "product_name": "Nothing Phone (4a) - 50 MP Triple Camera with Up To 70X ultra Zoom, Long Lasting Battery and 50W Fast Charge, 120Hz AMOLED Display and Glyph Bar, 8GB + 128GB - White (UAE Type Approved)",
+    "price": "1199.00",
+    "rating": 4.5,
+    "number_of_reviews": 10,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Benco S1Plus No camera No GPS 8+8GB Ram 256GB Rom 33W Fast Charger Dark Gray",
+    "price": "739.00",
+    "rating": 3.9,
+    "number_of_reviews": 10,
+    "brand": "Benco"
+  },
+  {
+    "product_name": "Apple iPhone 15 (128 GB) - Black",
+    "price": "2459.00",
+    "rating": 4.5,
+    "number_of_reviews": 593,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Blue (8 GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": "728.00",
+    "rating": 4.6,
+    "number_of_reviews": 12,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "MOTOROLA MOTO G56 5G, 12+12GB RAM Boost, 256 GB ROM, MTK Dimensity 7060, 6.7\" FHD+ Display 120Hz, Android 15, PANTONE Dill (UAE Type Approved)",
+    "price": "729.00",
+    "rating": 4.0,
+    "number_of_reviews": 66,
+    "brand": "MOTOROLA"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 5G, Android Smartphone, 256GB Storage, 8GB RAM, Awesome Graphite, 6x OS Upgrades, Large Display, Long Battery Life (UAE Version)",
+    "price": "1255.00",
+    "rating": 4.4,
+    "number_of_reviews": 2700,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy A56 12GB 256GB 5G Pink",
+    "price": "1810.36",
+    "rating": 4.6,
+    "number_of_reviews": 369,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max (256 GB) - Natural Titanium",
+    "price": "2475.00",
+    "rating": 2.3,
+    "number_of_reviews": 166,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 7 Dual SIM Blue Shadow 12GB 512GB 5G - International Version",
+    "price": "5545.00",
+    "rating": 3.9,
+    "number_of_reviews": 7,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, Blue Shadow (International Version)",
+    "price": "4917.00",
+    "rating": 4.5,
+    "number_of_reviews": 93,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE (International Version) Smartphone, 128GB Storage, 4GB RAM, 6nm Processor, Large Display, 6x OS Upgrades, Black",
+    "price": "378.00",
+    "rating": 4.6,
+    "number_of_reviews": 22,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (256GB) - Sierra Blue",
+    "price": "1599.00",
+    "rating": 2.6,
+    "number_of_reviews": 76,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A06 LTE, Android Smartphone, Dual SIM Mobile Phone, 4GB RAM, 64GB Storage, Light Blue (UAE Version)",
+    "price": "324.48",
+    "rating": 4.0,
+    "number_of_reviews": 1100,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 Enterprise Edition Dual-SIM 128GB Storage, 8GB RAM 5G SmartPhone (Awesome Graphite) - International Version",
+    "price": "1175.00",
+    "rating": 4.4,
+    "number_of_reviews": 230,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra, 12GB RAM 256GB Green, International Version, 5G Mobile Phone, Dual SIM, Android Smartphone",
+    "price": "2015.00",
+    "rating": 3.1,
+    "number_of_reviews": 727,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 16 Pro Max (256 GB) - Desert Titanium",
+    "price": "3009.00",
+    "rating": 2.3,
+    "number_of_reviews": 44,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": "115.79",
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": "40.09",
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM G3 5G Rugged Smartphone,MTK 7300, 12GB+512GB, 6.72\" FHD+ 120Hz, Android 15,NFC, OTG, 64MP Rear+50MP Front Camera,10000mAh Battery, Wireless Charging, Dual SIM, IP68 Waterproof Mobile Phone",
+    "price": "1545.00",
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Honor X9d 5G Dual SIM (12GB RAM 256GB Storage) |108MP Ultra-Cear AI Camera | 6.79-inch AMOLED 120Hz Display |Android 15 (Midnight Black) - International Version",
+    "price": 1119.0,
+    "rating": 4.1,
+    "number_of_reviews": 54,
+    "brand": "Honor"
+  },
+  {
+    "product_name": "Nothing Phone (3a) 128 GB - mobile phone with 32 MP front camera, 30x ultra zoom, 50W fast charging and 6.77\" FHD+ flexible AMOLED display - Black (UAE Type Approved)",
+    "price": 967.93,
+    "rating": 4.5,
+    "number_of_reviews": 287,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE, Android Smartphone, 64GB Storage, 4GB RAM, Black, 6x OS Upgrades, Large Display, 6nm Processor (UAE Version)",
+    "price": 329.0,
+    "rating": 4.2,
+    "number_of_reviews": 107,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 LTE, Android Smartphone, 128GB Storage, 6GB RAM, Black, 6x OS Upgrades, Large Display, 50MP OIS Camera (UAE Version)",
+    "price": 580.0,
+    "rating": 4.3,
+    "number_of_reviews": 229,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, International Version, Sky Blue",
+    "price": 4448.99,
+    "rating": 4.6,
+    "number_of_reviews": 475,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Edge AI Phone, 256GB Storage, 12GB RAM, Titanium Jetblack, Galaxy AI, Android Smartphone, 200MP Camera, Long Battery Life,(UAE Version)",
+    "price": 2199.0,
+    "rating": 4.0,
+    "number_of_reviews": 38,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Black (8GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": 735.0,
+    "rating": 3.2,
+    "number_of_reviews": 16,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "benco S2C No Camera No GPS, 6+10GB RAM,128GB ROM, 6.82” Display, 5000mAh Battery | Grey",
+    "price": 669.0,
+    "rating": 4.5,
+    "number_of_reviews": 3,
+    "brand": "benco"
+  },
+  {
+    "product_name": "Nothing Phone (4a) - 50 MP Triple Camera with Up To 70X ultra Zoom, Long Lasting Battery and 50W Fast Charge, 120Hz AMOLED Display and Glyph Bar, 8GB + 128GB - White (UAE Type Approved)",
+    "price": 1199.0,
+    "rating": 4.5,
+    "number_of_reviews": 10,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Benco S1Plus No camera No GPS 8+8GB Ram 256GB Rom 33W Fast Charger Dark Gray",
+    "price": 739.0,
+    "rating": 3.9,
+    "number_of_reviews": 10,
+    "brand": "Benco"
+  },
+  {
+    "product_name": "Apple iPhone 15 (128 GB) - Black",
+    "price": 2459.0,
+    "rating": 4.5,
+    "number_of_reviews": 593,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Blue (8 GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": 728.0,
+    "rating": 4.6,
+    "number_of_reviews": 12,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "MOTOROLA MOTO G56 5G, 12+12GB RAM Boost, 256 GB ROM, MTK Dimensity 7060, 6.7\" FHD+ Display 120Hz, Android 15, PANTONE Dill (UAE Type Approved)",
+    "price": 729.0,
+    "rating": 4.0,
+    "number_of_reviews": 66,
+    "brand": "MOTOROLA"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 5G, Android Smartphone, 256GB Storage, 8GB RAM, Awesome Graphite, 6x OS Upgrades, Large Display, Long Battery Life (UAE Version)",
+    "price": 1255.0,
+    "rating": 4.4,
+    "number_of_reviews": 2700,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy A56 12GB 256GB 5G Pink",
+    "price": 1810.36,
+    "rating": 4.6,
+    "number_of_reviews": 369,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max (256 GB) - Natural Titanium",
+    "price": 2475.0,
+    "rating": 2.3,
+    "number_of_reviews": 166,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 7 Dual SIM Blue Shadow 12GB 512GB 5G - International Version",
+    "price": 5545.0,
+    "rating": 3.9,
+    "number_of_reviews": 7,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, Blue Shadow (International Version)",
+    "price": 4917.0,
+    "rating": 4.5,
+    "number_of_reviews": 93,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE (International Version) Smartphone, 128GB Storage, 4GB RAM, 6nm Processor, Large Display, 6x OS Upgrades, Black",
+    "price": 378.0,
+    "rating": 4.6,
+    "number_of_reviews": 22,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (256GB) - Sierra Blue",
+    "price": 1599.0,
+    "rating": 2.6,
+    "number_of_reviews": 76,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A06 LTE, Android Smartphone, Dual SIM Mobile Phone, 4GB RAM, 64GB Storage, Light Blue (UAE Version)",
+    "price": 324.48,
+    "rating": 4.0,
+    "number_of_reviews": 1100,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 Enterprise Edition Dual-SIM 128GB Storage, 8GB RAM 5G SmartPhone (Awesome Graphite) - International Version",
+    "price": 1175.0,
+    "rating": 4.4,
+    "number_of_reviews": 230,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra, 12GB RAM 256GB Green, International Version, 5G Mobile Phone, Dual SIM, Android Smartphone",
+    "price": 2015.0,
+    "rating": 3.1,
+    "number_of_reviews": 727,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 16 Pro Max (256 GB) - Desert Titanium",
+    "price": 3009.0,
+    "rating": 2.3,
+    "number_of_reviews": 44,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM G3 5G Rugged Smartphone,MTK 7300, 12GB+512GB, 6.72\" FHD+ 120Hz, Android 15,NFC, OTG, 64MP Rear+50MP Front Camera,10000mAh Battery, Wireless Charging, Dual SIM, IP68 Waterproof Mobile Phone",
+    "price": 1545.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "Honor X9d 5G Dual SIM (12GB RAM 256GB Storage) |108MP Ultra-Cear AI Camera | 6.79-inch AMOLED 120Hz Display |Android 15 (Midnight Black) - International Version",
+    "price": 1119.0,
+    "rating": 4.1,
+    "number_of_reviews": 54,
+    "brand": "Honor"
+  },
+  {
+    "product_name": "Nothing Phone (3a) 128 GB - mobile phone with 32 MP front camera, 30x ultra zoom, 50W fast charging and 6.77\" FHD+ flexible AMOLED display - Black (UAE Type Approved)",
+    "price": 967.93,
+    "rating": 4.5,
+    "number_of_reviews": 287,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE, Android Smartphone, 64GB Storage, 4GB RAM, Black, 6x OS Upgrades, Large Display, 6nm Processor (UAE Version)",
+    "price": 329.0,
+    "rating": 4.2,
+    "number_of_reviews": 107,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 LTE, Android Smartphone, 128GB Storage, 6GB RAM, Black, 6x OS Upgrades, Large Display, 50MP OIS Camera (UAE Version)",
+    "price": 580.0,
+    "rating": 4.3,
+    "number_of_reviews": 229,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, International Version, Sky Blue",
+    "price": 4448.99,
+    "rating": 4.6,
+    "number_of_reviews": 475,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 Edge AI Phone, 256GB Storage, 12GB RAM, Titanium Jetblack, Galaxy AI, Android Smartphone, 200MP Camera, Long Battery Life,(UAE Version)",
+    "price": 2199.0,
+    "rating": 4.0,
+    "number_of_reviews": 38,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Black (8GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": 735.0,
+    "rating": 3.2,
+    "number_of_reviews": 16,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "benco S2C No Camera No GPS, 6+10GB RAM,128GB ROM, 6.82” Display, 5000mAh Battery | Grey",
+    "price": 669.0,
+    "rating": 4.5,
+    "number_of_reviews": 3,
+    "brand": "benco"
+  },
+  {
+    "product_name": "Nothing Phone (4a) - 50 MP Triple Camera with Up To 70X ultra Zoom, Long Lasting Battery and 50W Fast Charge, 120Hz AMOLED Display and Glyph Bar, 8GB + 128GB - White (UAE Type Approved)",
+    "price": 1199.0,
+    "rating": 4.5,
+    "number_of_reviews": 10,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Benco S1Plus No camera No GPS 8+8GB Ram 256GB Rom 33W Fast Charger Dark Gray",
+    "price": 739.0,
+    "rating": 3.9,
+    "number_of_reviews": 10,
+    "brand": "Benco"
+  },
+  {
+    "product_name": "Apple iPhone 15 (128 GB) - Black",
+    "price": 2459.0,
+    "rating": 4.5,
+    "number_of_reviews": 593,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Blue (8 GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": 728.0,
+    "rating": 4.6,
+    "number_of_reviews": 12,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "MOTOROLA MOTO G56 5G, 12+12GB RAM Boost, 256 GB ROM, MTK Dimensity 7060, 6.7\" FHD+ Display 120Hz, Android 15, PANTONE Dill (UAE Type Approved)",
+    "price": 729.0,
+    "rating": 4.0,
+    "number_of_reviews": 66,
+    "brand": "MOTOROLA"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 5G, Android Smartphone, 256GB Storage, 8GB RAM, Awesome Graphite, 6x OS Upgrades, Large Display, Long Battery Life (UAE Version)",
+    "price": 1255.0,
+    "rating": 4.4,
+    "number_of_reviews": 2700,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy A56 12GB 256GB 5G Pink",
+    "price": 1810.36,
+    "rating": 4.6,
+    "number_of_reviews": 369,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max (256 GB) - Natural Titanium",
+    "price": 2475.0,
+    "rating": 2.3,
+    "number_of_reviews": 166,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 7 Dual SIM Blue Shadow 12GB 512GB 5G - International Version",
+    "price": 5545.0,
+    "rating": 3.9,
+    "number_of_reviews": 7,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, Blue Shadow (International Version)",
+    "price": 4917.0,
+    "rating": 4.5,
+    "number_of_reviews": 93,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE (International Version) Smartphone, 128GB Storage, 4GB RAM, 6nm Processor, Large Display, 6x OS Upgrades, Black",
+    "price": 378.0,
+    "rating": 4.6,
+    "number_of_reviews": 22,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (256GB) - Sierra Blue",
+    "price": 1599.0,
+    "rating": 2.6,
+    "number_of_reviews": 76,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A06 LTE, Android Smartphone, Dual SIM Mobile Phone, 4GB RAM, 64GB Storage, Light Blue (UAE Version)",
+    "price": 324.48,
+    "rating": 4.0,
+    "number_of_reviews": 1100,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A56 Enterprise Edition Dual-SIM 128GB Storage, 8GB RAM 5G SmartPhone (Awesome Graphite) - International Version",
+    "price": 1175.0,
+    "rating": 4.4,
+    "number_of_reviews": 230,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra, 12GB RAM 256GB Green, International Version, 5G Mobile Phone, Dual SIM, Android Smartphone",
+    "price": 2015.0,
+    "rating": 3.1,
+    "number_of_reviews": 727,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 16 Pro Max (256 GB) - Desert Titanium",
+    "price": 3009.0,
+    "rating": 2.3,
+    "number_of_reviews": 44,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM G3 5G Rugged Smartphone,MTK 7300, 12GB+512GB, 6.72\" FHD+ 120Hz, Android 15,NFC, OTG, 64MP Rear+50MP Front Camera,10000mAh Battery, Wireless Charging, Dual SIM, IP68 Waterproof Mobile Phone",
+    "price": 1545.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy Z Fold 5 Dual SIM Phantom Black 12GB RAM 256GB 5G - International Version",
+    "price": 2349.0,
+    "rating": 2.9,
+    "number_of_reviews": 8,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 16 Pro (256GB) Black Titanium - Dual eSIM (US Version)",
+    "price": 2874.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "SAMSUNG Galaxy S25 Edge Phone, 256 GB AI Smartphone, Unlocked Android, Night Video, Fast Processor, ProScaler Display, Long Battery Life, 2025, Titanium Icyblue (International Version)",
+    "price": 2384.5,
+    "rating": 4.6,
+    "number_of_reviews": 42,
+    "brand": "SAMSUNG"
+  },
+  {
+    "product_name": "Samsung Galaxy A07 LTE (International Version) Smartphone, 128GB Storage, 4GB RAM, 6nm Processor, Large Display, 6x OS Upgrades, Light Violet",
+    "price": 394.0,
+    "rating": 5.0,
+    "number_of_reviews": 5,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 12 Pro (128GB) - Gold",
+    "price": 951.0,
+    "rating": 2.2,
+    "number_of_reviews": 35,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "NOKIA 105 4G DS Black",
+    "price": 100.0,
+    "rating": 3.5,
+    "number_of_reviews": 141,
+    "brand": "NOKIA"
+  },
+  {
+    "product_name": "Nokia 2660 Flip 4G, 2.8 inch screen, Dual SIM Feature Phone with a Big display, Emergency button, preloaded Gameloft Games and Origin Data - Black",
+    "price": 224.0,
+    "rating": 3.8,
+    "number_of_reviews": 181,
+    "brand": "Nokia"
+  },
+  {
+    "product_name": "Apple iPhone 17 Pro 256 GB: 6.3-inch Display with ProMotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange (Renewed)",
+    "price": 4299.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "realme 12 Pro+ 5G (Navigator Beige 8GB RAM, 256GB ROM)|Snapdragon® 7s Gen 2|120Hz Curved Vision Display|5000mAh Battery|64MP Periscope Portrait Camera|12 Months Warranty - Middle East Version",
+    "price": 998.0,
+    "rating": 4.1,
+    "number_of_reviews": 10,
+    "brand": "realme"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 5G Black (8GB RAM / 128 GB Storage) Android Smartphone | With Charger | 6x OS Upgrades, Large Display, 50MP OIS Camera | Indian Version",
+    "price": 649.0,
+    "rating": 4.4,
+    "number_of_reviews": 16,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "CUBOT KingKong ES 3 Rugged Smartphone | 6.74\" 90Hz HD+ Display Smart Phone| 16GB RAM (6+10GB Expansion) + 256GB ROM | 48+16MP Camera | 10200mAh Battery | Android 15 Mobile | NFC | Waterproof -Black",
+    "price": 725.0,
+    "rating": 4.7,
+    "number_of_reviews": 5,
+    "brand": "CUBOT"
+  },
+  {
+    "product_name": "Redmi A5 Ocean Blue 4GB RAM 128GB ROM",
+    "price": 355.0,
+    "rating": 3.6,
+    "number_of_reviews": 115,
+    "brand": "Redmi"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro Max, 512GB, White Titanium - Dual eSIM (US Version)",
+    "price": 2999.0,
+    "rating": 4.1,
+    "number_of_reviews": 119,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A17 LTE Gray (8GB RAM / 256 GB Storage) Android Smartphone | 6x OS Upgrades, Large Display, 50MP OIS Camera | International Version",
+    "price": 699.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 15 Pro, 256GB, Natural Titanium - Dual eSIM (US Version)",
+    "price": 2290.0,
+    "rating": 4.1,
+    "number_of_reviews": 339,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 FE 5G, AI Phone, Dual SIM Android Smartphone, 8GB RAM, 128GB Storage, Graphite (UAE Version)",
+    "price": 1399.0,
+    "rating": 4.1,
+    "number_of_reviews": 2100,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Realme GT 7T 5G Smartphone (12GB RAM, 512GB Storage) | 6.8\" 120Hz AMOLED | 50MP Dual Camera | 7000mAh | 120W Charging | Android 15 | IP69 | 12m Warranty | Middle East Version (IceSense Black)",
+    "price": 1499.0,
+    "rating": 2.9,
+    "number_of_reviews": 2,
+    "brand": "Realme"
+  },
+  {
+    "product_name": "Samsung Galaxy A36 5G (Awesome Lavender, 8GB, 256GB) Intelligence AI Smartphone:Circle to Search,Object Eraser | 4nm Snapdragon Processor | Flagship Grade Selfie Camera-International",
+    "price": 1199.0,
+    "rating": 4.2,
+    "number_of_reviews": 122,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 16 Pro Max (256GB) White Titanium - Dual eSIM (US Version)",
+    "price": 3130.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro Max (128GB) - Gold",
+    "price": 1440.0,
+    "rating": 2.7,
+    "number_of_reviews": 16,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy A36 5G (Awesome Black, 8GB, 256GB) | Awesome Intelligence - AI Smartphone: Circle to Search, My Filter, Object Eraser | 4nm Snapdragon Processor | Flagship Grade Selfie Camera-",
+    "price": 1030.0,
+    "rating": 4.1,
+    "number_of_reviews": 76,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Oppo Reno11 F Dual-SIM 256GB ROM + 8GB RAM (Only GSM | No CDMA) Factory Unlocked 5G Smartphone (Ocean Blue) - International Version",
+    "price": 1533.02,
+    "rating": 4.5,
+    "number_of_reviews": 337,
+    "brand": "Oppo"
+  },
+  {
+    "product_name": "HONOR 400 Lite 5G – 8GB RAM 256GB ROM, 108MP Motion Sensing Camera, 120Hz 6.7 Inch AMOLED Display, Velvet Grey - International Version",
+    "price": 825.0,
+    "rating": 4.3,
+    "number_of_reviews": 382,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "Retro Brick Mobile Phone Ornament Mobile Phone Model Vintage Simulation Photography Props Stylized Ornaments Red (#2)",
+    "price": 40.09,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM H MAX Rugged Smartphone Unlocked, 4G Outdoor Phone with 10000mAh Battery, Android 14, 4GB+128GB, 6.56” HD+ Display, IP68/IP69K, Face ID, Dual SIM, NFC",
+    "price": 699.0,
+    "rating": 4.5,
+    "number_of_reviews": 7,
+    "brand": "AGM"
+  },
+  {
+    "product_name": "REDMAGIC 11 Air 144Hz Gaming Phone, 5G Android Smartphone, 16GB RAM+512GB ROM, Snapdragon 8 Elite, 6.85\" OLED Full Screen, FHD+, 50MP Camera, Dual-Sim, Unlocked Mobile Phone White",
+    "price": 2358.03,
+    "rating": 3.8,
+    "number_of_reviews": 6,
+    "brand": "REDMAGIC"
+  },
+  {
+    "product_name": "Nothing Phone (4a) Pro Bundle - 50 MP Triple Camera with Up To 140X ultra Zoom, 50W Fast Charge, 144Hz AMOLED Display and Glyph Bar, 12GB + 256GB - Black (UAE Type Approved)",
+    "price": 2299.0,
+    "rating": 3.8,
+    "number_of_reviews": 5,
+    "brand": "Nothing"
+  },
+  {
+    "product_name": "Redmi Note 15 Smartphone (8GB RAM, 256GB Storage) – 6000mAh Battery, 108MP Camera, 6.77\" FHD+ Display, IP64 Water & Dust Resistant, Black – UAE Warranty",
+    "price": 709.74,
+    "rating": 4.0,
+    "number_of_reviews": 36,
+    "brand": "Redmi"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold7 Cell Phone, 512GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, JetBlack (International Version)",
+    "price": 5545.0,
+    "rating": 4.6,
+    "number_of_reviews": 141,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A35 5G (Awesome Lilac, 8GB RAM, 128GB Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",
+    "price": 864.9,
+    "rating": 4.2,
+    "number_of_reviews": 655,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S25+, 256GB Storage, 12GB RAM, Navy (International Version)",
+    "price": 2698.0,
+    "rating": 4.5,
+    "number_of_reviews": 422,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy S26+ Cobalt Violet, 256GB Storage, AI Phone, 12GB RAM, Customized AP, Built-in Privacy Display, Photo Assist, 200MP Camera, 5000mAh Battery, UAE Version, 1 Year Warranty",
+    "price": 3607.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Nokia 105 4G Feature Phone With Long-Lasting Battery, Classic Quality Design , Packed Features, Classic Games, Radio, Flashlight And Plenty Of Storage Space, Dual Sim, RAM 48 Mb, Rom 128 Mb - Blue",
+    "price": 94.25,
+    "rating": 3.4,
+    "number_of_reviews": 212,
+    "brand": "Nokia"
+  },
+  {
+    "product_name": "HONOR 600 Lite 5G Smartphone, 8GB RAM + 256GB Storage, 6.6” 120Hz AMOLED Display, 108MP AI Camera with Camera Button, Metal Frame, IP66 Water Resistant, Velvet Grey (UAE Type Approved)",
+    "price": 1045.15,
+    "rating": 3.7,
+    "number_of_reviews": 6,
+    "brand": "HONOR"
+  },
+  {
+    "product_name": "Apple iPhone 17e 256GB: 6.1-inch Super Retina XDR Display, A19 Chip, All-Day Battery Life, 48MP Fusion Camera; Black",
+    "price": 2595.0,
+    "rating": 5.0,
+    "number_of_reviews": 8,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 14 Pro Max (256 GB) - Deep Purple",
+    "price": 2020.0,
+    "rating": 2.5,
+    "number_of_reviews": 216,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Honor 400 5G Dual Sim 256GB Desert Gold (12GB RAM) - Global Version",
+    "price": 1315.71,
+    "rating": 4.8,
+    "number_of_reviews": 8,
+    "brand": "Honor"
+  },
+  {
+    "product_name": "REDMAGIC 11 Pro 144Hz Gaming Phone, 5G Android Smartphone, 16GB RAM+512GB ROM, Snapdragon 8 Elite Gen 5, 6.85\" 1.5K AMOLED Full Screen, 50MP Camera, Unlocked Mobile Phone Transparent",
+    "price": 3389.08,
+    "rating": 4.4,
+    "number_of_reviews": 127,
+    "brand": "REDMAGIC"
+  },
+  {
+    "product_name": "Redmi A5 Midnight Black 4GB RAM 128GB ROM",
+    "price": 349.0,
+    "rating": 3.5,
+    "number_of_reviews": 221,
+    "brand": "Redmi"
+  },
+  {
+    "product_name": "POCO X8 Pro 12G RAM +512GB ROM Black - with 3-pin Adapter - Middle East Version",
+    "price": 1399.0,
+    "rating": 5.0,
+    "number_of_reviews": 2,
+    "brand": "POCO"
+  },
+  {
+    "product_name": "OnePlus 15 Dual-SIM 512GB ROM + 16GB RAM 5G Smartphone (Sand Storm) - Indian Version",
+    "price": 3184.9,
+    "rating": 4.7,
+    "number_of_reviews": 66,
+    "brand": "OnePlus"
+  },
+  {
+    "product_name": "Xiaomi Redmi 14C Midnight Black 4GB RAM 128GB ROM",
+    "price": 340.0,
+    "rating": 3.8,
+    "number_of_reviews": 255,
+    "brand": "Xiaomi"
+  },
+  {
+    "product_name": "Samsung Galaxy S25 FE Cell Phone (2025), 256GB AI Smartphone, Unlocked Android, Large Display, 4900mAh Battery, High Res-Camera, AI Photo Edits, Durable, JetBlack (International Version)",
+    "price": 1895.0,
+    "rating": 4.6,
+    "number_of_reviews": 827,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Samsung Galaxy A57 5G Android Smartphone 6x OS Upgrades, Large Display, 50MP Camera, Long Battery Life (Awesome Lilac, 12GB + 256GB) - International Version",
+    "price": 1799.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "realme GT 6 5G Dual SIM 16GB + 512GB (Fluid Silver) - Middle East Version",
+    "price": 1799.0,
+    "rating": 3.8,
+    "number_of_reviews": 5,
+    "brand": "realme"
+  },
+  {
+    "product_name": "Apple (Refurbished) iPhone 13 Pro (256GB) - Graphite",
+    "price": 1323.0,
+    "rating": 2.7,
+    "number_of_reviews": 37,
+    "brand": "Apple"
+  },
+  {
+    "product_name": "Samsung Galaxy S23 Ultra, AI Phone, Dual SIM, 5G, Android Smartphone, 512GB, Phantom Black (UAE Version)",
+    "price": 2458.0,
+    "rating": 4.4,
+    "number_of_reviews": 3700,
+    "brand": "Samsung"
+  },
+  {
+    "product_name": "Infinix NOTE 50X 5G X6857 Smartphone | Powerful 16GB RAM (8+8 Extended) + 256GB Storage | Ultra Fast Octa-Core Processor | High-Resolution Display | Long-Lasting Battery | Titanium Grey",
+    "price": 728.0,
+    "rating": 3.6,
+    "number_of_reviews": 91,
+    "brand": "Infinix"
+  },
+  {
+    "product_name": "Motorola Edge 50 Fusion Dual-SIM 256GB ROM + 8GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone (Marshmallow Blue) - International Version",
+    "price": 898.0,
+    "rating": 5.0,
+    "number_of_reviews": 1,
+    "brand": "Motorola"
+  },
+  {
+    "product_name": "Senior Phone, 4G Mobile Phone for Elderly with 1.8 Inch HD Screen, Exceptional Sound Quality, 5000mAh Battery and Dual SIM Support (Red)",
+    "price": 115.79,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": null
+  },
+  {
+    "product_name": "AGM G3 5G Rugged Smartphone,MTK 7300, 12GB+512GB, 6.72\" FHD+ 120Hz, Android 15,NFC, OTG, 64MP Rear+50MP Front Camera,10000mAh Battery, Wireless Charging, Dual SIM, IP68 Waterproof Mobile Phone",
+    "price": 1545.0,
+    "rating": null,
+    "number_of_reviews": null,
+    "brand": "AGM"
+  }
+]

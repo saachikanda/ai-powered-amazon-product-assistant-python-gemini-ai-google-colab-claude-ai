@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>ShopBot — Amazon UAE Assistant</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --blue-deep: #0f2a4a;
+    --blue-mid: #1a3f6f;
+    --blue-accent: #2563eb;
+    --blue-bright: #3b82f6;
+    --blue-glow: #60a5fa;
+    --grey-dark: #1e2530;
+    --grey-mid: #374151;
+    --grey-light: #9ca3af;
+    --grey-pale: #d1d5db;
+    --white: #f8fafc;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--grey-dark);
+    color: var(--white);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  .bg {
+    position: fixed; inset: 0; z-index: 0;
+    background: radial-gradient(ellipse 80% 60% at 20% 10%, #0d2e5e 0%, transparent 60%),
+                radial-gradient(ellipse 60% 50% at 80% 80%, #1a3f6f 0%, transparent 55%),
+                linear-gradient(160deg, #0a1628 0%, #111827 50%, #0d1f38 100%);
+  }
+  .bg-grid {
+    position: fixed; inset: 0; z-index: 0;
+    background-image: linear-gradient(rgba(37,99,235,0.06) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(37,99,235,0.06) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+  .orb {
+    position: fixed; border-radius: 50%; filter: blur(80px); z-index: 0; pointer-events: none;
+    animation: float 8s ease-in-out infinite;
+  }
+  .orb1 { width: 520px; height: 520px; background: rgba(37,99,235,0.13); top: -160px; left: -110px; animation-delay: 0s; }
+  .orb2 { width: 420px; height: 420px; background: rgba(96,165,250,0.09); bottom: -110px; right: -90px; animation-delay: -4s; }
+  .orb3 { width: 320px; height: 320px; background: rgba(29,78,216,0.1); top: 38%; left: 58%; animation-delay: -2s; }
+  @keyframes float {
+    0%,100% { transform: translateY(0px) scale(1); }
+    50% { transform: translateY(-28px) scale(1.04); }
+  }
+
+  .page { position: relative; z-index: 1; min-height: 100vh; display: flex; flex-direction: column; }
+
+  nav {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 24px 48px;
+    border-bottom: 1px solid rgba(37,99,235,0.15);
+    backdrop-filter: blur(20px);
+    background: rgba(10,22,40,0.4);
+  }
+  .logo {
+    font-family: 'Syne', sans-serif; font-weight: 800; font-size: 1.4rem;
+    letter-spacing: -0.02em; color: var(--white);
+    display: flex; align-items: center; gap: 10px;
+  }
+  .logo-icon {
+    width: 36px; height: 36px; background: var(--blue-accent);
+    border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    font-size: 1rem;
+  }
+  .logo span { color: var(--blue-glow); }
+  .nav-pill {
+    background: rgba(37,99,235,0.15); border: 1px solid rgba(37,99,235,0.3);
+    border-radius: 20px; padding: 6px 16px; font-size: 0.75rem;
+    color: var(--blue-glow); letter-spacing: 0.08em; text-transform: uppercase;
+  }
+
+  .hero {
+    flex: 1; display: flex; flex-direction: column; align-items: center;
+    justify-content: center; padding: 80px 24px 60px; text-align: center;
+  }
+
+  .badge {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(37,99,235,0.1); border: 1px solid rgba(59,130,246,0.25);
+    border-radius: 30px; padding: 8px 20px; margin-bottom: 36px;
+    font-size: 0.8rem; color: var(--blue-glow); letter-spacing: 0.05em;
+    animation: fadeUp 0.6s ease both;
+  }
+  .badge-dot {
+    width: 7px; height: 7px; border-radius: 50%; background: #22c55e;
+    box-shadow: 0 0 8px #22c55e; animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.6;transform:scale(0.85)} }
+
+  h1 {
+    font-family: 'Syne', sans-serif; font-weight: 800;
+    font-size: clamp(3rem, 8vw, 6rem); line-height: 1.0;
+    letter-spacing: -0.03em; margin-bottom: 28px;
+    animation: fadeUp 0.6s 0.1s ease both;
+  }
+  h1 .line2 { color: var(--blue-bright); display: block; }
+
+  .subtitle {
+    font-size: 1.15rem; color: var(--grey-light); max-width: 520px;
+    line-height: 1.7; margin-bottom: 52px;
+    animation: fadeUp 0.6s 0.2s ease both;
+  }
+
+  .launch-card {
+    background: rgba(15,42,74,0.5); border: 1px solid rgba(37,99,235,0.2);
+    border-radius: 20px; padding: 40px 48px; width: 100%; max-width: 440px;
+    backdrop-filter: blur(24px); text-align: center;
+    animation: fadeUp 0.6s 0.3s ease both;
+    box-shadow: 0 0 60px rgba(37,99,235,0.1);
+  }
+
+  .launch-icon {
+    width: 64px; height: 64px; background: rgba(37,99,235,0.15);
+    border: 1px solid rgba(59,130,246,0.3); border-radius: 16px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.8rem; margin: 0 auto 20px;
+  }
+
+  .launch-card h2 {
+    font-family: 'Syne', sans-serif; font-weight: 700; font-size: 1.2rem;
+    margin-bottom: 10px; color: var(--white);
+  }
+  .launch-card p {
+    font-size: 0.87rem; color: var(--grey-light); margin-bottom: 30px; line-height: 1.6;
+  }
+
+  .btn-launch {
+    width: 100%; background: var(--blue-accent); border: none; border-radius: 12px;
+    padding: 16px; font-family: 'Syne', sans-serif; font-weight: 700;
+    font-size: 1rem; color: var(--white); cursor: pointer; letter-spacing: 0.02em;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 24px rgba(37,99,235,0.4);
+    display: flex; align-items: center; justify-content: center; gap: 10px;
+  }
+  .btn-launch:hover { background: #1d4ed8; transform: translateY(-2px); box-shadow: 0 8px 32px rgba(37,99,235,0.5); }
+  .btn-launch:active { transform: translateY(0); }
+  .btn-launch:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+  .btn-arrow { font-size: 1.1rem; transition: transform 0.2s; }
+  .btn-launch:hover .btn-arrow { transform: translateX(4px); }
+
+  .error-msg { color: #f87171; font-size: 0.82rem; margin-top: 14px; display: none; }
+  .error-msg.show { display: block; }
+
+  .features {
+    display: flex; gap: 16px; margin-top: 60px; flex-wrap: wrap; justify-content: center;
+    animation: fadeUp 0.6s 0.45s ease both; padding: 0 24px;
+  }
+  .feat {
+    background: rgba(15,42,74,0.4); border: 1px solid rgba(37,99,235,0.15);
+    border-radius: 14px; padding: 22px 24px; flex: 1; min-width: 180px; max-width: 220px;
+    text-align: center; transition: border-color 0.2s, transform 0.2s;
+  }
+  .feat:hover { border-color: rgba(59,130,246,0.3); transform: translateY(-3px); }
+  .feat-icon { font-size: 1.6rem; margin-bottom: 10px; }
+  .feat h3 { font-family: 'Syne', sans-serif; font-weight: 600; font-size: 0.9rem; margin-bottom: 6px; }
+  .feat p { font-size: 0.78rem; color: var(--grey-light); line-height: 1.5; }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .spinner {
+    display: inline-block; width: 16px; height: 16px;
+    border: 2px solid rgba(255,255,255,0.3); border-top-color: white;
+    border-radius: 50%; animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+</head>
+<body>
+<div class="bg"></div>
+<div class="bg-grid"></div>
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+<div class="orb orb3"></div>
+
+<div class="page">
+  <nav>
+    <div class="logo">
+      <div class="logo-icon">🛒</div>
+      Shop<span>Bot</span>
+    </div>
+    <div class="nav-pill">Amazon UAE</div>
+  </nav>
+
+  <div class="hero">
+    <div class="badge">
+      <span class="badge-dot"></span>
+      Live Product Catalog · Refreshes Every 30s
+    </div>
+
+    <h1>Your Smart<span class="line2">Shopping Guide</span></h1>
+    <p class="subtitle">Ask anything about grooming products on Amazon UAE — prices, ratings, brand comparisons, and personalized recommendations.</p>
+
+    <div class="launch-card">
+      <div class="launch-icon">🛒</div>
+      <h2>Ready to Shop Smarter?</h2>
+      <p>Your AI shopping assistant is powered and ready. Click below to start chatting with live catalog data.</p>
+      <button class="btn-launch" id="launchBtn" onclick="launch()">
+        <span id="btnText">Open ShopBot</span>
+        <span class="btn-arrow" id="btnArrow">→</span>
+      </button>
+      <div class="error-msg" id="errMsg"></div>
+    </div>
+
+    <div class="features">
+      <div class="feat">
+        <div class="feat-icon">⚡</div>
+        <h3>Live Data</h3>
+        <p>Catalog refreshes from Google Sheets every 30 seconds</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">🤖</div>
+        <h3>Gemini AI</h3>
+        <p>Powered by Google's Gemini 2.5 Flash model</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">🎯</div>
+        <h3>Smart Picks</h3>
+        <p>Filter by brand, budget, or rating in plain English</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+async function launch() {
+  const btn = document.getElementById('launchBtn');
+  const btnText = document.getElementById('btnText');
+  const btnArrow = document.getElementById('btnArrow');
+  const err = document.getElementById('errMsg');
+  err.classList.remove('show');
+
+  btn.disabled = true;
+  btnText.innerHTML = '<span class="spinner"></span>';
+  btnArrow.style.display = 'none';
+
+  try {
+    const res = await fetch('/api/status');
+    const data = await res.json();
+
+    if (data.initialized) {
+      btnText.textContent = '✓ Launching...';
+      setTimeout(() => { window.location.href = '/chat'; }, 600);
+    } else {
+      const setupRes = await fetch('/api/setup', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({})
+      });
+      const setupData = await setupRes.json();
+      if (setupRes.ok) {
+        btnText.textContent = '✓ Launching...';
+        setTimeout(() => { window.location.href = '/chat'; }, 600);
+      } else {
+        showErr(setupData.error || 'Could not start the bot. Check that app.py is running.');
+        reset();
+      }
+    }
+  } catch (e) {
+    showErr('Cannot reach server. Make sure app.py is running on port 5000.');
+    reset();
+  }
+
+  function reset() {
+    btn.disabled = false;
+    btnText.textContent = 'Open ShopBot';
+    btnArrow.style.display = '';
+  }
+}
+
+function showErr(msg) {
+  const el = document.getElementById('errMsg');
+  el.textContent = msg;
+  el.classList.add('show');
+}
+</script>
+</body>
+</html>

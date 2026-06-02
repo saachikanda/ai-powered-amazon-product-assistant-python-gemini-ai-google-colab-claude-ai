@@ -1,0 +1,10 @@
+Flask
+flask-cors
+pandas
+google-generativeai
+python-dotenv
+gunicorn
+requests
+beautifulsoup4
+gspread
+google-auth
