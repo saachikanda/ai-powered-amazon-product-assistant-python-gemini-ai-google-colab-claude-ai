@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated data
+outputs/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Virtual environments
+venv/
+env/
